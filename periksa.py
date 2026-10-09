@@ -3,7 +3,8 @@
 Untuk setiap keluaran/babNN.txt, semua kode/babNN_*.py dijalankan,
 keluarannya digabung, lalu setiap blok yang tercetak di buku harus
 muncul utuh (baris-baris berurutan) di dalam gabungan itu. Spasi di
-ujung baris diabaikan.
+ujung baris diabaikan, dan bilangan seperti 2.8e-17 (selisih galat
+pembulatan yang bergantung pada CPU) dianggap sama bila di bawah 1e-9.
 
     python periksa.py          # semua bab
     python periksa.py 04 05    # bab tertentu saja
@@ -12,6 +13,12 @@ import glob
 import re
 import subprocess
 import sys
+
+
+def rapikan(t):
+    """Selisih pembulatan di bawah 1e-9 ditulis seragam."""
+    return re.sub(r"\b\d\.\de-(?:09|[1-9]\d)\b", "<1e-9", t)
+
 
 pilihan = sys.argv[1:]
 masalah = 0
@@ -31,10 +38,10 @@ for berkas in sorted(glob.glob("keluaran/bab[0-9][0-9].txt")):
             print(f"{s}: GAGAL\n{hasil.stderr[-500:]}")
             masalah += 1
         keluaran += hasil.stdout
-    bersih = "\n".join(b.rstrip() for b in keluaran.splitlines())
+    bersih = rapikan("\n".join(b.rstrip() for b in keluaran.splitlines()))
     cocok = 0
     for b in blok:
-        t = "\n".join(x.rstrip() for x in b.strip("\n").splitlines())
+        t = rapikan("\n".join(x.rstrip() for x in b.strip("\n").splitlines()))
         if t in bersih:
             cocok += 1
         else:
