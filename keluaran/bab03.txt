@@ -1,0 +1,19 @@
+# Blok keluaran yang tercetak di Bab 3 (bab03-posisi.tex).
+# Diperiksa oleh periksa.py terhadap kode/bab03_*.py.
+
+=== blok 1 ===
+(1) Tanpa posisi dan tanpa mask: Attn(PX) = P Attn(X)?
+    selisih maks = 2.2e-16
+    dengan causal mask: selisih maks = 1.2033
+
+=== blok 2 ===
+(2) Sinusoidal d = 64: PE(p).PE(p+k) hanya bergantung pada k
+    selisih maks atas p = 7.5e-14
+    PE(p).PE(p+k) untuk k = 0, 1, 2, 5, 10, 50, 100:
+     [32.   30.92 28.3  23.5  21.05 15.67 17.87]
+
+=== blok 3 ===
+(3) RoPE d = 64: skor q_p . k_s hanya bergantung pada s - p
+    (p, s) = (3, 10): 16.9968, (103, 110): 16.9968
+    cocok dengan perkalian kompleks: True
+    norma q tidak berubah: True

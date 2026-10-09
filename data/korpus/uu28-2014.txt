@@ -1,0 +1,788 @@
+UNDANG-UNDANG REPUBLIK INDONESIA
+NOMOR 28 TAHUN 2014
+TENTANG
+HAK CIPTA
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+PRESIDEN REPUBLIK INDONESIA,
+Menimbang:
+bahwa hak cipta merupakan kekayaan intelektual di bidang ilmu pengetahuan, seni, dan sastra yang mempunyai peranan strategis dalam mendukung pembangunan bangsa dan memajukan kesejahteraan sebagaimana diamanatkan oleh Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+bahwa perkembangan ilmu pengetahuan, teknologi, seni, dan sastra, sudah demikian pesat sehingga memerlukan peningkatan pelindungan dan jaminan kepastian hukum bagi pencipta, pemegang Hak Cipta, dan pemilik Hak Terkait;
+bahwa Indonesia telah menjadi anggota berbagai perjanjian internasional di bidang hak cipta dan hak terkait sehingga diperlukan implementasi lebih lanjut dalam sistem hukum nasional agar para pencipta dan kreator nasional mampu berkompetisi secara internasional;
+bahwa Undang-Undang nomor 19 tahun 2002 tentang hak cipta sudah tidak sesuai dengan perkembangan hukum dan kebutuhan masyarakat sehingga perlu diganti dengan Undang-Undang yang baru;
+bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, huruf b, huruf c, dan huruf d perlu membentuk Undang-Undang tentang Hak Cipta.
+Mengingat:
+Pasal 5 ayat (1), Pasal 20, Pasal 28 C ayat (1), dan Pasal 33 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+Dengan Persetujuan Bersama
+DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
+dan
+PRESIDEN REPUBLIK INDONESIA
+MEMUTUSKAN:
+Menetapkan:
+UNDANG-UNDANG TENTANG HAK CIPTA.
+BAB I
+KETENTUAN UMUM
+Pasal 1
+Dalam Undang-Undang ini yang dimaksud dengan:
+Hak Cipta adalah hak eksklusif pencipta yang timbul secara otomatis berdasarkan prinsip deklaratif setelah suatu ciptaan diwujudkan dalam bentuk nyata tanpa mengurangi pembatasan sesuai dengan ketentuan peraturan perundang-undangan.
+Pencipta adalah seorang atau beberapa orang yang secara sendiri-sendiri atau bersama-sama menghasilkan suatu ciptaan yang bersifat khas dan pribadi.
+Ciptaan adalah setiap hasil karya cipta di bidang ilmu pengetahuan, seni, dan sastra yang dihasilkan atas inspirasi, kemampuan, pikiran, imajinasi, kecekatan, keterampilan, alau keahlian yang diekspresikan dalam bentuk nyata.
+Pemegang Hak Cipta adalah Pencipta sebagai pemilik Hak Cipta, pihak yang menerima hak tersebut secara sah dari Pencipta, atau pihak lain yang menerima lebih lanjut hak dari pihak yang menerima hak tersebut secara sah.
+Hak Terkait adalah hak yang berkaitan dengan Hak Cipta yang merupakan hak eksklusif bagi pelaku pertunjukan, produser fonogram, atau lembaga Penyiaran.
+Pelaku Pertunjukan adalah seorang atau beberapa orang yang secara sendiri-sendiri atau bersama-sama menampilkan dan mempertunjukkan suatu Ciptaan.
+Produser Fonogram adalah orang atau badan hukum yang pertama kali merekam dan memiliki tanggung jawab untuk melaksanakan perekaman suara atau perekaman bunyi, baik perekaman pertunjukan maupun perekaman suara atau bunyi lain.
+Lembaga Penyiaran adalah penyelenggara Penyiaran, baik lembaga Penyiaran publik, lembaga Penyiaran swasta, lembaga Penyiaran komunitas maupun lembaga Penyiaran berlangganan yang dalam melaksanakan tugas, fungsi, dan tanggung jawabnya sesuai dengan ketentuan peraturan perundang-undangan.
+Program Komputer adalah seperangkat instruksi yang diekspresikan dalam bentuk bahasa, kode, skema, atau dalam bentuk apapun yang ditujukan agar komputer bekerja melakukan fungsi tertentu atau untuk mencapai hasil tertentu.
+Potret adalah karya fotografi dengan objek manusia.
+Pengumuman adalah pembacaan, penyiaran, pameran, suatu ciptaan dengan menggunakan alat apapun baik elektronik atau non elektronik atau melakukan dengan cara apapun sehingga suatu ciptaan dapat dibaca, didengar, atau dilihat orang lain.
+Penggandaan adalah proses, perbuatan, atau cara menggandakan satu salinan Ciptaan dan/atau fonogram atau lebih dengan cara dan dalam bentuk apapun, secara permanen atau sementara.
+Fiksasi adalah perekaman suara yang dapat didengar, perekaman gambar atau keduanya, yang dapat dilihat, didengar, digandakan, atau dikomunikasikan melalui perangkat apapun.
+Fonogram adalah Fiksasi suara pertunjukan atau suara lainnya, atau representasi suara, yang tidak termasuk bentuk Fiksasi yang tergabung dalam sinematografi atau Ciptaan audiovisual lainnya.
+Penyiaran adalah pentransmisian suatu Ciptaan atau produk Hak Terkait tanpa kabel sehingga dapat diterima oleh semua orang di lokasi yang jauh dari tempat transmisi berasal.
+Komunikasi kepada pubiik yang selanjutnya disebut Komunikasi adalah pentransmisian suatu Ciptaan, pertunjukan, atau Fonogram melalui kabel atau media lainnya selain Penyiaran sehingga dapat diterima oleh publik, termasuk penyediaan suatu Ciptaan, pertunjukan, atau Fonogram agar dapat diakses publik dari tempat dan waktu yang dipilihnya.
+Pendistribusian adalah penjualan, pengedaran, dan/atau penyebaran Ciptaan dan/atau produk Hak Terkait.
+Kuasa adalah konsultan kekayaan intelektual, atau orang yang mendapat kuasa dari Pencipta, Pemegang Hak Cipta, atau pemilik Hak Terkait.
+Permohonan adalah permohonan pencatatan Ciptaan oleh pemohon kepada Menteri.
+Lisensi adalah izin tertulis yang diberikan oleh Pemegang Hak Cipta atau Pemilik Hak Terkait kepada pihak lain untuk melaksanakan hak ekonomi atas Ciptaannya atau produk Hak Terkait dengan syarat tertentu.
+Royalti adalah imbalan atas pemanfaatan Hak Ekonomi suatu Ciptaan atau Produk Hak Terkait yang diterima oleh pencipta atau pemilik hak terkait.
+Lembaga Manajemen Kolektif adalah institusi yang berbentuk badan hukum nirlaba yang diberi kuasa oleh Pencipta, Pemegang Hak Cipta, dan/atau pemilik Hak Terkait guna mengelola hak ekonominya dalam bentuk menghimpun dan mendistribusikan royalti.
+Pembajakan adalah Penggandaan Ciptaan dan/atau produk Hak Terkait secara tidak sah dan pendistribusian barang hasil penggandaan dimaksud secara luas untuk memperoleh keuntungan ekonomi.
+Penggunaan Secara Komersial adalah pemanfaatan Ciptaan dan/atau produk Hak Terkait dengan tujuan untuk memperoleh keuntungan ekonomi dari berbagai sumber atau berbayar.
+Ganti rugi adalah pembayaran sejumlah uang yang dibebankan kepada pelaku pelanggaran hak ekonomi Pencipta, Pemegang Hak Cipta dan/atau pemilik Hak Terkait berdasarkan putusan pengadilan perkara perdata atau pidana yang berkekuatan hukum tetap atas kerugian yang diderita Pencipta, Pemegang Hak Cipta dan/atau pemilik Hak Terkait.
+Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang hukum.
+Orang adalah orang perseorangan atau badan hukum.
+Hari adalah Hari kerja.
+Pasal 2
+Undang-Undang ini berlaku terhadap:
+semua Ciptaan dan produk Hak Terkait warga negara, penduduk, dan badan hukum Indonesia;
+semua Ciptaan dan produk Hak Terkait bukan warga negara Indonesia, bukan penduduk Indonesia, dan bukan badan hukum Indonesia yang untuk pertama kali dilakukan Pengumuman di Indonesia;
+semua Ciptaan dan/atau produk Hak Terkait dan pengguna Ciptaan dan/atau produk Hak Terkait bukan warga negara Indonesia, bukan penduduk Indonesia, dan bukan badan hukum Indonesia dengan ketentuan:
+negaranya mempunyai perjanjian bilateral dengan negara Republik Indonesia mengenai pelindungan Hak Cipta dan Hak Terkait; atau
+negaranya dan negara Republik Indonesia merupakan pihak atau peserta dalam perjanjian multilateral yang sama mengenai pelindungan Hak Cipta dan Hak Terkait.
+Pasal 3
+Undang-Undang ini mengatur:
+Hak Cipta; dan
+Hak Terkait.
+BAB II
+HAK CIPTA
+Bagian Kesatu
+Umum
+Pasal 4
+Hak Cipta sebagaimana dimaksud dalam Pasal 3 huruf a merupakan hak eksklusif yang terdiri atas hak moral dan hak ekonomi.
+Bagian Kedua
+Hak Moral
+Pasal 5
+Hak moral sebagaimana dimaksud dalam Pasal 4 merupakan hak yang melekat secara abadi pada diri Pencipta untuk:
+tetap mencantumkan atau tidak mencantumkan namanya pada salinan sehubungan dengan pemakaian Ciptaannya untuk umum;
+menggunakan nama aliasnya atau samarannya;
+mengubah Ciptaannya sesuai dengan kepatutan dalam masyarakat;
+mengubah judul dan anak judul Ciptaan; dan
+mempertahankan haknya dalam hal terjadi distorsi Ciptaan, mutilasi Ciptaan, modifikasi Ciptaan, atau hal yang bersifat merugikan kehormatan diri atau reputasinya.
+Hak moral sebagaimana dimaksud pada ayat (1) tidak dapat dialihkan selama Pencipta masih hidup, tetapi pelaksanaan hak tersebut dapat dialihkan dengan wasiat atau sebab lain sesuai dengan ketentuan peraturan perundang-undangan setelah Pencipta meninggal dunia.
+Dalam hal terjadi pengalihan pelaksanaan hak moral sebagaimana dimaksud pada ayat (2), penerima dapat melepaskan atau menolak pelaksanaan haknya dengan syarat pelepasan atau penolakan pelaksanaan hak tersebut dinyatakan secara tertulis.
+Pasal 6
+Untuk melindungi hak moral sebagaimana dimaksud dalam Pasal 5 ayat (1), Pencipta dapat memiliki:
+informasi manajemen Hak Cipta; dan/atau
+informasi elektronik Hak Cipta.
+Pasal 7
+Informasi manajemen Hak Cipta sebagaimana dimaksud dalam Pasal 6 huruf a meliputi informasi tentang:
+metode atau sistem yang dapat mengidentifikasi orisinalitas substansi Ciptaan dan Penciptanya; dan
+kode informasi dan kode akses.
+Informasi elektronik Hak Cipta sebagaimana dimaksud dalam Pasal 6 huruf b meliputi informasi tentang:
+suatu Ciptaan, yang muncul dan melekat secara elektronik dalam hubungan dengan kegiatan Pengumuman Ciptaan;
+nama pencipta, aliasnya atau nama samarannya;
+Pencipta sebagai pemegang Hak Cipta;
+masa dan kondisi penggunaan Ciptaan;
+nomor; dan
+kode informasi.
+Informasi manajemen Hak Cipta sebagaimana dimaksud pada ayat (1) dan informasi elektronik Hak Cipta sebagaimana dimaksud pada ayat (2) yang dimiliki Pencipta dilarang dihilangkan, diubah, atau dirusak.
+Bagian Ketiga
+Hak Ekonomi
+Paragraf 1
+Hak Ekonomi Pencipta atau Pemegang Hak Cipta
+Pasal 8
+Hak ekonomi merupakan hak eksklusif Pencipta atau Pemegang Hak Cipta untuk mendapatkan manfaat ekonomi atas Ciptaan.
+Pasal 9
+Pencipta atau Pemegang Hak Cipta sebagaimana dimaksud dalam Pasal 8 memiliki hak ekonomi untuk melakukan:
+penerbitan Ciptaan;
+Penggandaan Ciptaan dalam segala bentuknya;
+penerjemahan Ciptaan;
+pengadaptasian, pengaransemenan, atau pentransformasian Ciptaan;
+Pendistribusian Ciptaan atau salinannya;
+pertunjukan Ciptaan;
+Pengumuman Ciptaan;
+Komunikasi Ciptaan;
+penyewaan Ciptaan.
+Setiap Orang yang melaksanakan hak ekonomi sebagaimana dimaksud pada ayat (1) wajib mendapatkan izin Pencipta atau Pemegang Hak Cipta.
+Setiap Orang yang tanpa izin Pencipta atau Pemegang Hak Cipta dilarang melakukan Penggandaan dan/atau Penggunaan Secara Komersial Ciptaan.
+Pasal 10
+Pengelola tempat perdagangan dilarang membiarkan penjualan dan/atau penggandaan barang hasil pelanggaran Hak Cipta dan/atau Hak Terkait di tempat perdagangan yang dikelolanya.
+Pasal 11
+Hak ekonomi untuk melakukan Pendistribusian Ciptaan atau salinannya sebagaimana dimaksud dalam Pasal 9 ayat (1) huruf e tidak berlaku terhadap Ciptaan atau salinannya yang telah dijual atau yang telah dialihkan kepemilikan Ciptaan kepada siapapun.
+Hak ekonomi untuk menyewakan Ciptaan atau salinannya sebagaimana dimaksud dalam Pasal 9 ayat (1) huruf i tidak berlaku terhadap Program Komputer dalam hal Program Komputer tersebut bukan merupakan objek esensial dari penyewaan.
+Paragraf 2
+Hak Ekonomi atas Potret
+Pasal 12
+Setiap Orang dilarang melakukan Penggunaan Secara Komersial, Penggandaan, Pengumuman, Pendistribusian, dan/atau Komunikasi atas Potret yang dibuatnya guna kepentingan reklame atau periklanan secara komersial tanpa persetujuan tertulis dari orang yang dipotret atau ahli warisnya.
+Penggunaan Secara Komersial, Penggandaan, Pengumuman, Pendistribusian, dan/atau Komunikasi Potret sebagaimana dimaksud pada ayat (1) yang memuat Potret 2 (dua) orang atau lebih, wajib meminta persetujuan dari orang yang ada dalam Potret atau ahli warisnya.
+Pasal 13
+Pengumuman, Pendistribusian, atau Komunikasi Potret seorang atau beberapa orang Pelaku Pertunjukan dalam suatu pertunjukan umum tidak dianggap sebagai pelanggaran Hak Cipta, kecuali dinyatakan lain atau diberi persetujuan oleh Pelaku Pertunjukan atau pemegang hak atas pertunjukan tersebut sebelum atau pada saat pertunjukan berlangsung.
+Pasal 14
+Untuk kepentingan keamanan, kepentingan umum, dan/atau keperluan proses peradilan pidana, instansi yang berwenang dapat melakukan Pengumuman, Pendistribusian, atau Komunikasi Potret tanpa harus mendapatkan persetujuan dari seorang atau beberapa orang yang ada dalam Potret.
+Pasal 15
+Kecuali diperjanjikan lain, pemilik dan/atau pemegang Ciptaan fotografi, lukisan, gambar, karya arsitektur, patung, atau karya seni lain berhak melakukan Pengumuman Ciptaan dalam suatu pameran umum atau Penggandaan dalam suatu katalog yang diproduksi untuk keperluan pameran tanpa persetujuan Pencipta.
+Ketentuan Pengumuman Ciptaan sebagaimana dimaksud pada ayat (1) berlaku juga terhadap Potret sepanjang tidak bertentangan dengan ketentuan sebagaimana dimaksud dalam Pasal 12.
+Paragraf 3
+Pengalihan Hak Ekonomi
+Pasal 16
+Hak Cipta merupakan benda bergerak tidak berwujud.
+Hak Cipta dapat beralih atau dialihkan, baik seluruh maupun sebagian karena:
+pewarisan;
+hibah;
+wakaf;
+wasiat;
+perjanjian tertulis;
+sebab lain yang dibenarkan sesuai dengan ketentuan peraturan perundang-undangan.
+Hak Cipta dapat dijadikan sebagai objek jaminan fidusia.
+Ketentuan mengenai Hak Cipta sebagai objek jaminan fidusia sebagaimana dimaksud pada ayat (3) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
+Pasal 17
+Hak ekonomi atas suatu Ciptaan tetap berada di tangan Pencipta atau Pemegang Hak Cipta selama Pencipta atau Pemegang Hak Cipta tidak mengalihkan seluruh hak ekonomi dari Pencipta atau Pemegang Hak Cipta tersebut kepada penerima pengalihan hak atas Ciptaan.
+Hak ekonomi yang dialihkan Pencipta atau Pemegang Hak Cipta untuk seluruh atau sebagian tidak dapat dialihkan untuk kedua kalinya oleh Pencipta atau Pemegang Hak Cipta yang sama.
+Pasal 18
+Ciptaan buku, dan/atau semua hasil karya tulis lainnya, lagu dan/atau musik dengan atau tanpa teks yang dialihkan dalam perjanjian jual putus dan/atau pengalihan tanpa batas waktu, Hak Ciptanya beralih kembali kepada Pencipta pada saat perjanjian tersebut mencapai jangka waktu 25 (dua puluh lima) tahun.
+Pasal 19
+Hak Cipta yang dimiliki Pencipta yang belum, telah, atau tidak dilakukan Pengumuman, Pendistribusian, atau Komunikasi setelah Penciptanya meninggal dunia menjadi milik ahli waris atau milik penerima wasiat.
+Ketentuan sebagaimana dimaksud pada ayat (1) tidak berlaku jika hak tersebut diperoleh secara melawan hukum.
+BAB III
+HAK TERKAIT
+Bagian Kesatu
+Umum
+Pasal 20
+Hak Terkait sebagaimana dimaksud dalam Pasal 3 huruf b merupakan hak eksklusif yang meliputi:
+hak moral Pelaku Pertunjukan;
+hak ekonomi Pelaku Pertunjukan;
+hak ekonomi Produser Fonogram;
+hak ekonomi Lembaga Penyiaran.
+Bagian Kedua
+Hak Moral Pelaku Pertunjukan
+Pasal 21
+Hak moral Pelaku Pertunjukan merupakan hak yang melekat pada Pelaku Pertunjukan yang tidak dapat dihilangkan atau tidak dapat dihapus dengan alasan apapun walaupun hak ekonominya telah dialihkan.
+Pasal 22
+Hak moral Pelaku Pertunjukan sebagaimana dimaksud dalam Pasal 21 meliputi hak untuk:
+namanya dicantumkan sebagai Pelaku Pertunjukan, kecuali disetujui sebaliknya;
+tidak dilakukannya distorsi Ciptaan, mutilasi Ciptaan, modifikasi Ciptaan, atau hal-hal yang bersifat merugikan kehormatan diri atau reputasinya kecuali disetujui sebaliknya.
+Bagian Ketiga
+Hak Ekonomi
+Paragraf 1
+Hak Ekonomi Pelaku Pertunjukan
+Pasal 23
+Pelaku Pertunjukan memiliki hak ekonomi.
+Hak ekonomi Pelaku Pertunjukan sebagaimana dimaksud pada ayat (1) meliputi hak melaksanakan sendiri, memberikan izin, atau melarang pihak lain untuk melakukan:
+Penyiaran atau Komunikasi atas pertunjukan Pelaku Pertunjukan;
+Fiksasi dari pertunjukannya yang belum difiksasi;
+Penggandaan atas Fiksasi pertunjukannya dengan cara atau bentuk apapun;
+Pendistribusian atas Fiksasi salinannya;
+penyewaan atas Fiksasi pertunjukan atau salinannya kepada publik;
+penyediaan atas Fiksasi pertunjukan yang dapat diakses publik.
+Penyiaran atau Komunikasi sebagaimana dimaksud pada ayat (2) huruf a tidak berlaku terhadap:
+hasil Fiksasi pertunjukan yang telah diberi izin oleh Pelaku Pertunjukan;
+Penyiaran atau Komunikasi kembali yang telah diberi izin oleh Lembaga Penyiaran yang pertama kali mendapatkan izin pertunjukan.
+Pendistribusian sebagaimana dimaksud pada ayat (2) huruf d tidak berlaku terhadap karya pertunjukan yang telah difiksasi, dijual atau dialihkan.
+Setiap Orang dapat melakukan Penggunaan Secara Komersial Ciptaan dalam suatu pertunjukan tanpa meminta izin terlebih dahulu kepada Pencipta dengan membayar imbalan kepada Pencipta melalui Lembaga Manajemen Kolektif.
+Paragraf 2
+Hak Ekonomi Produser Fonogram
+Pasal 24
+Produser Fonogram memiliki hak ekonomi.
+Hak ekonomi Produser Fonogram sebagaimana dimaksud pada ayat (1) meliputi hak melaksanakan sendiri, memberikan izin, atau melarang pihak lain untuk melakukan:
+Penggandaan atas Fonogram dengan cara atau bentuk apapun;
+Pendistribusian atas Fonogram asli atau salinannya;
+penyewaan kepada publik atas salinan Fonogram;
+penyediaan atas Fonogram dengan atau tanpa kabel yang dapat diakses publik.
+Pendistribusian sebagaimana dimaksud pada ayat (2) huruf b, tidak berlaku terhadap salinan Fiksasi atas pertunjukan yang telah dijual atau yang telah dialihkan kepemilikannya oleh Produser Fonogram kepada pihak lain.
+Setiap Orang yang melaksanakan hak ekonomi Produser Fonogram sebagaimana dimaksud pada ayat (2) wajib mendapatkan izin dari Produser Fonogram.
+Paragraf 3
+Hak Ekonomi Lembaga Penyiaran
+Pasal 25
+Lembaga Penyiaran mempunyai hak ekonomi.
+Hak ekonomi Lembaga Penyiaran sebagaimana dimaksud pada ayat (1) meliputi hak melaksanakan sendiri, memberikan izin, atau melarang pihak lain untuk melakukan:
+Penyiaran ulang siaran;
+Komunikasi siaran;
+Fiksasi siaran;
+Penggandaan Fiksasi siaran.
+Setiap Orang dilarang melakukan dengan tujuan komersial atas Lembaga Penyiaran.
+Paragraf 4
+Pembatasan Pelindungan
+Pasal 26
+Ketentuan sebagaimana dimaksud dalam Pasal 23, Pasal 24, dan Pasal 25 tidak berlaku terhadap:
+penggunaan kutipan singkat Ciptaan dan/atau produk Hak Terkait untuk pelaporan peristiwa aktual yang ditujukan hanya untuk keperluan penyediaan informasi aktual;
+Penggandaan Ciptaan dan/atau produk Hak Terkait hanya untuk kepentingan penelitian ilmu pengetahuan;
+Penggandaan Ciptaan dan/atau produk Hak Terkait hanya untuk keperluan pengajaran, kecuali pertunjukan dan Fonogram yang telah dilakukan Pengumuman sebagai bahan ajar; dan
+penggunaan untuk kepentingan pendidikan dan pengembangan ilmu pengetahuan yang memungkinkan suatu Ciptaan dan/atau produk Hak Terkait dapat digunakan tanpa izin Pelaku Pertunjukan, Produser Fonogram, atau Lembaga Penyiaran.
+Paragraf 5
+Pemberian Imbalan yang Wajar atas Penggunaan Fonogram
+Pasal 27
+Fonogram yang tersedia untuk diakses publik dengan atau tanpa kabel harus dianggap sebagai Fonogram yang telah dilakukan Pengumuman untuk kepentingan komersial.
+Pengguna harus membayar imbalan yang wajar kepada Pelaku Pertunjukan dan Produser Fonogram jika Fonogram telah dilakukan Pengumuman secara komersial atau Penggandaan Fonogram tersebut digunakan secara langsung untuk keperluan Penyiaran dan/atau Komunikasi.
+Hak untuk menerima imbalan yang wajar dimaksud pada ayat (2) berlaku selama 50 (lima puluh) tahun sejak tanggal Pengumuman.
+Pasal 28
+Kecuali diperjanjikan lain, Produser Fonogram harus membayar Pelaku Pertunjukan sebesar 1/2 (satu per dua) dari pendapatannya.
+Paragraf 6
+Pengalihan Hak Ekonomi
+Pasal 29
+Pengalihan hak ekonomi atas Ciptaan sebagaimana dimaksud dalam Pasal 16, Pasal 17, dan Pasal 19 berlaku secara mutatis mutandis terhadap pengalihan hak ekonomi atas produk Hak Terkait.
+Pasal 30
+Karya Pelaku Pertunjukan berupa lagu dan/atau musik yang dialihkan dan/atau dijual hak ekonominya, kepemilikan hak ekonominya beralih kembali kepada Pelaku pertunjukan setelah jangka waktu 25 (dua puluh lima) tahun.
+BAB IV
+PENCIPTA
+Pasal 31
+Kecuali terbukti sebaliknya, yang dianggap sebagai pencipta, yaitu Orang yang namanya:
+disebut dalam Ciptaan;
+dinyatakan sebagai Pencipta pada suatu Ciptaan;
+disebutkan dalam surat pencatatan Ciptaan; dan/atau
+tercantum dalam daftar umum Ciptaan sebagai pencipta.
+Pasal 32
+Kecuali terbukti sebaliknya, Orang yang melakukan ceramah yang tidak menggunakan bahan tertulis dan tidak ada pemberitahuan siapa Pencipta ceramah tersebut dianggap sebagai Pencipta.
+Pasal 33
+Dalam hal Ciptaan terdiri atas beberapa bagian tersendiri yang diciptakan oleh 2 (dua) Orang atau lebih, yang dianggap sebagai Pencipta yaitu Orang yang memimpin dan mengawasi penyelesaian seluruh Ciptaan.
+Dalam hal Orang yang memimpin dan mengawasi penyelesaian seluruh Ciptaan sebagaimana dimaksud pada ayat (1) tidak ada, yang dianggap sebagai Pencipta yaitu Orang yang menghimpun Ciptaan dengan tidak mengurangi Hak Cipta masing-masing atas bagian Ciptaannya.
+Pasal 34
+Dalam hal Ciptaan dirancang oleh seseorang dan diwujudkan serta dikerjakan oleh Orang lain di bawah pimpinan dan pengawasan Orang yang merancang, yang dianggap Pencipta yaitu Orang yang merancang Ciptaan.
+Pasal 35
+Kecuali diperjanjikan lain Pemegang Hak Cipta atas Ciptaan yang dibuat oleh Pencipta dalam hubungan dinas, yang dianggap sebagai Pencipta yaitu instansi pemerintah.
+Dalam hal Ciptaan sebagaimana dimaksud pada ayat (1) digunakan secara komersial, Pencipta dan/atau Pemegang Hak Terkait mendapatkan imbalan dalam bentuk Royalti.
+Ketentuan lebih lanjut mengenai pemberian Royalti untuk penggunaan secara komersial sebagaimana dimaksud pada ayat (2) diatur dengan Peraturan Pemerintah.
+Pasal 36
+Kecuali diperjanjikan lain, Pencipta dan Pemegang Hak Cipta atas Ciptaan yang dibuat dalam hubungan kerja atau berdasarkan pesanan yaitu pihak yang membuat Ciptaan.
+Pasal 37
+Kecuali terbukti sebaliknya, dalam hal badan hukum melakukan Pengumuman, Pendistribusian, atau Komunikasi atas Ciptaan yang berasal dari badan hukum tersebut, dengan tanpa menyebut seseorang sebagai Pencipta, yang dianggap sebagai Pencipta yaitu badan hukum.
+BAB V
+EKSPRESI BUDAYA TRADISIONAL DAN CIPTAAN YANG DILINDUNGI
+Bagian Kesatu
+Ekspresi Budaya Tradisional dan Hak Cipta atas Ciptaan yang Penciptanya Tidak Diketahui
+Pasal 38
+Hak Cipta atas ekspresi budaya tradisional dipegang oleh Negara.
+Negara wajib menginventarisasi, menjaga, dan memelihara ekspresi budaya tradisional sebagaimana dimaksud pada ayat (1).
+Penggunaan ekspresi budaya tradisional sebagaimana dimaksud pada ayat (1) harus memperhatikan nilai-nilai yang hidup dalam masyarakat pengembannya.
+Ketentuan lebih lanjut mengenai Hak Cipta yang dipegang oleh Negara atas ekspresi budaya tradisional sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+Pasal 39
+Dalam hal Ciptaan tidak diketahui Penciptanya dan Ciptaan tersebut belum dilakukan Pengumuman, Hak Cipta atas Ciptaan tersebut dipegang oleh Negara untuk kepentingan Pencipta.
+Dalam hal Ciptaan telah dilakukan Pengumuman tetapi tidak diketahui Penciptanya, atau hanya tertera nama aliasnya atau samaran Penciptanya, Hak Cipta atas Ciptaan tersebut dipegang oleh pihak yang melakukan Pengumuman untuk kepentingan Pencipta.
+Dalam hal Ciptaan telah diterbitkan tetapi tidak diketahui Pencipta dan pihak yang melakukan Pengumuman, Hak Cipta atas Ciptaan tersebut dipegang oleh Negara untuk kepentingan Pencipta.
+Ketentuan sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3) tidak berlaku jika Pencipta dan/atau pihak yang melakukan Pengumuman dapat membuktikan kepemilikan atas Ciptaan tersebut.
+Kepentingan Pencipta sebagaimana dimaksud pada ayat (1) dan ayat (3) dilaksanakan oleh Menteri.
+Bagian Kedua
+Ciptaan yang Dilindungi
+Pasal 40
+Ciptaan yang dilindungi meliputi Ciptaan dalam bidang ilmu pengetahuan, seni, dan sastra, terdiri atas:
+buku, pamflet, perwajahan karya tulis yang diterbitkan, dan semua hasil karya tulis lainnya;
+ceramah, kuliah, pidato, dan Ciptaan sejenis lainnya;
+alat peraga yang dibuat untuk kepentingan pendidikan dan ilmu pengetahuan;
+lagu dan/atau musik dengan atau tanpa teks;
+drama, drama musikal, tari, koreografi, pewayangan, dan pantomim;
+karya seni rupa dalam segala bentuk seperti lukisan, gambar, ukiran, kaligrafi, seni pahat, patung, atau kolase;
+karya seni terapan;
+karya arsitektur;
+peta;
+karya seni batik atau seni motif lain;
+karya fotografi;
+Potret;
+karya sinematografi;
+terjemahan, tafsir, saduran, bunga rampai, basis data, adaptasi, aransemen, modifikasi dan karya lain dari hasil transformasi;
+terjemahan, adaptasi, aransemen, transformasi, atau modifikasi ekspresi budaya tradisional;
+kompilasi Ciptaan atau data, baik dalam format yang dapat dibaca dengan Program Komputer maupun media lainnya;
+kompilasi ekspresi budaya tradisional selama kompilasi tersebut merupakan karya yang asli;
+permainan video; dan
+Program Komputer.
+Ciptaan sebagaimana dimaksud pada ayat (1) huruf n dilindungi sebagai Ciptaan tersendiri dengan tidak mengurangi Hak Cipta atas Ciptaan asli.
+Pelindungan sebagaimana dimaksud pada ayat (1) dan ayat (2), termasuk pelindungan terhadap Ciptaan yang tidak atau belum dilakukan Pengumuman tetapi sudah diwujudkan dalam bentuk nyata yang memungkinkan Penggandaan Ciptaan tersebut.
+Bagian Ketiga
+Hasil Karya yang Tidak Dilindungi Hak Cipta
+Pasal 41
+Hasil karya yang tidak dilindungi Hak Cipta meliputi:
+hasil karya yang belum diwujudkan dalam bentuk nyata;
+setiap ide, prosedur, sistem, metode, konsep, prinsip, temuan atau data walaupun telah diungkapkan, dinyatakan, digambarkan, dijelaskan, atau digabungkan dalam sebuah Ciptaan; dan
+alat, benda, atau produk yang diciptakan hanya untuk menyelesaikan masalah teknis atau yang bentuknya hanya ditujukan untuk kebutuhan fungsional.
+Pasal 42
+Tidak ada Hak Cipta atas hasil karya berupa:
+hasil rapat terbuka lembaga negara;
+peraturan perundang-undangan;
+pidato kenegaraan atau pidato pejabat pemerintah;
+putusan pengadilan atau penetapan hakim; dan
+kitab suci atau simbol keagamaan.
+BAB VI
+PEMBATASAN HAK CIPTA
+Pasal 43
+Perbuatan yang tidak dianggap sebagai pelanggaran Hak Cipta meliputi:
+Pengumuman, Pendistribusian, Komunikasi, dan/atau Penggandaan lambang negara dan lagu kebangsaan menurut sifatnya yang asli;
+Pengumuman, Pendistribusian, Komunikasi, dan/atau Penggandaan segala sesuatu yang dilaksanakan oleh atau atas nama pemerintah, kecuali dinyatakan dilindungi oleh peraturan perundang-undangan, pernyataan pada Ciptaan tersebut, atau ketika terhadap Ciptaan tersebut dilakukan Pengumuman, Pendistribusian, Komunikasi, dan/atau Penggandaan;
+pengambilan berita aktual, baik seluruhnya maupun sebagian dari kantor berita, Lembaga Penyiaran, dan surat kabar atau sumber sejenis lainnya dengan ketentuan sumbernya harus disebutkan secara lengkap; atau
+pembuatan dan penyebarluasan konten Hak Cipta melalui media teknologi informasi dan komunikasi yang bersifat tidak komersial dan/atau menguntungkan Pencipta atau pihak terkait, atau Pencipta tersebut menyatakan tidak keberatan atas pembuatan dan penyebarluasan tersebut.
+Penggandaan, Pengumuman, dan/atau Pendistribusian Potret Presiden, Wakil Presiden, mantan Presiden, mantan Wakil Presiden, Pahlawan Nasional, pimpinan lembaga negara, pimpinan kementerian/lembaga pemerintah non kementerian, dan/atau kepala daerah dengan memperhatikan martabat dan kewajaran sesuai dengan ketentuan peraturan perundang-undangan.
+Pasal 44
+Penggunaan, pengambilan, Penggandaan, dan/atau pengubahan suatu Ciptaan dan/atau produk Hak Terkait secara seluruh atau sebagian yang substansial tidak dianggap sebagai pelanggaran Hak Cipta jika sumbernya disebutkan atau dicantumkan secara lengkap untuk keperluan:
+pendidikan, penelitian, penulisan karya ilmiah, penyusunan laporan, penulisan kritik atau tinjauan suatu masalah dengan tidak merugikan kepentingan yang wajar dari Pencipta atau Pemegang Hak Cipta;
+keamanan serta penyelenggaraan pemerintahan, legislatif, dan peradilan;
+ceramah yang hanya untuk tujuan pendidikan dan ilmu pengetahuan; atau
+pertunjukan atau pementasan yang tidak dipungut bayaran dengan ketentuan tidak merugikan kepentingan yang wajar dari Pencipta.
+Fasilitasi akses atas suatu Ciptaan untuk penyandang tuna netra, penyandang kerusakan penglihatan atau keterbatasan dalam membaca, dan/atau pengguna huruf braille, buku audio, atau sarana lainnya, tidak dianggap sebagai pelanggaran Hak Cipta jika sumbernya disebutkan atau dicantumkan secara lengkap, kecuali bersifat komersial.
+Dalam hal Ciptaan berupa karya arsitektur, pengubahan sebagaimana dimaksud pada ayat (1) tidak dianggap sebagai pelanggaran Hak Cipta jika dilakukan berdasarkan pertimbangan pelaksanaan teknis.
+Ketentuan lebih lanjut mengenai fasilitasi akses terhadap Ciptaan bagi penyandang tuna netra, penyandang kerusakan penglihatan dan keterbatasan dalam membaca dan menggunakan huruf braille, buku audio, atau sarana lainnya sebagaimana dimaksud pada ayat (2) diatur dengan Peraturan Pemerintah.
+Pasal 45
+Penggandaan sebanyak 1 (satu) salinan atau adaptasi Program Komputer yang dilakukan oleh pengguna yang sah dapat dilakukan tanpa izin Pencipta atau Pemegang Hak Cipta jika salinan tersebut digunakan untuk:
+penelitian dan pengembangan Program Komputer tersebut; dan
+arsip atau cadangan atas Program Komputer yang diperoleh secara sah untuk mencegah kehilangan, kerusakan, atau tidak dapat dioperasikan.
+Apabila penggunaan Program Komputer telah berakhir, salinan atau adaptasi Program Komputer tersebut harus dimusnahkan.
+Pasal 46
+Penggandaan untuk kepentingan pribadi atas Ciptaan yang telah dilakukan Pengumuman hanya dapat dibuat sebanyak 1 (satu) salinan dan dapat dilakukan tanpa izin Pencipta atau Pemegang Hak Cipta.
+Penggandaan untuk kepentingan pribadi sebagaimana dimaksud pada ayat (1) tidak mencakup:
+karya arsitektur dalam bentuk bangunan atau konstruksi lain;
+seluruh atau bagian yang substansial dari suatu buku atau notasi musik;
+seluruh atau bagian substansial dari database dalam bentuk digital;
+Program Komputer, kecuali sebagaimana dimaksud dalam Pasal 45 ayat (1); dan
+Penggandaan untuk kepentingan pribadi yang pelaksanaannya bertentangan dengan kepentingan yang wajar dari Pencipta atau Pemegang Hak Cipta.
+Pasal 47
+Setiap perpustakaan atau lembaga arsip yang tidak bertujuan komersial dapat membuat 1 (satu) salinan Ciptaan atau bagian Ciptaan tanpa izin Pencipta atau Pemegang Hak Cipta dengan cara:
+Penggandaan tulisan secara reprografi yang telah dilakukan Pengumuman, diringkas, atau dirangkum untuk memenuhi permintaan seseorang dengan syarat:
+perpustakaan atau lembaga arsip menjamin bahwa salinan tersebut hanya akan digunakan untuk tujuan pendidikan atau penelitian;
+Penggandaan tersebut dilakukan secara terpisah dan jika dilakukan secara berulang, Penggandaan tersebut harus merupakan kejadian yang tidak saling berhubungan; dan
+tidak ada Lisensi yang ditawarkan oleh Lembaga Manajemen Kolektif kepada perpustakaan atau lembaga arsip sehubungan dengan bagian yang digandakan.
+pembuatan salinan dilakukan untuk pemeliharaan, penggantian salinan yang diperlukan, atau penggantian salinan dalam hal salinan hilang, rusak, atau musnah dari koleksi permanen di perpustakaan atau lembaga arsip lain dengan syarat:
+perpustakaan atau lembaga arsip tidak mungkin memperoleh salinan dalam kondisi wajar; atau
+pembuatan salinan tersebut dilakukan secara terpisah atau jika dilakukan secara berulang, pembuatan salinan tersebut harus merupakan kejadian yang tidak saling berhubungan.
+pembuatan salinan dimaksudkan unluk Komunikasi atau pertukaran informasi antarperpustakaan, antarlembaga arsip, serta antara perpustakaan dan lembaga arsip.
+Pasal 48
+Penggandaan, Penyiaran, atau Komunikasi atas Ciptaan untuk tujuan informasi yang menyebutkan sumber dan nama Pencipta secara lengkap tidak dianggap pelanggaran Hak Cipta dengan ketentuan Ciptaan berupa:
+artikel dalam berbagai bidang yang sudah dilakukan Pengumuman baik dalam media cetak maupun media elektronik kecuali yang salinannya disediakan oleh Pencipta, atau berhubungan dengan Penyiaran atau Komunikasi atas suatu Ciptaan;
+laporan peristiwa aktual atau kutipan singkat dari Ciptaan yang dilihat atau didengar dalam situasi tertentu; dan
+karya ilmiah, pidato, ceramah, atau Ciptaan sejenis yang disampaikan kepada publik.
+Pasal 49
+Penggandaan sementara atas Ciptaan tidak dianggap pelanggaran Hak Cipta jika Penggandaan tersebut memenuhi ketentuan:
+pada saat dilaksanakan transmisi digital atau pembuatan Ciptaan secara digital dalam media penyimpanan;
+dilaksanakan oleh setiap Orang atas izin Pencipta untuk mentransmisi Ciptaan; dan
+menggunakan alat yang dilengkapi mekanisme penghapusan salinan secara otomatis yang tidak memungkinkan Ciptaan tersebut ditampilkan kembali.
+Setiap Lembaga Penyiaran dapat membuat rekaman sementara tanpa izin Pencipta atau Pemegang Hak Cipta untuk tujuan aktivitasnya dengan alat dan fasilitasnya sendiri.
+Lembaga Penyiaran wajib memusnahkan rekaman sementara sebagaimana dimaksud pada ayat (2) dalam waktu paling lama 6 (enam) bulan sejak pembuatan atau dalam waktu yang lebih lama dengan persetujuan Pencipta.
+Lembaga Penyiaran dapat membuat 1 (satu) salinan rekaman sementara yang mempunyai karakteristik tertentu untuk kepentingan arsip resmi.
+Pasal 50
+Setiap Orang dilarang melakukan Pengumuman, Pendistribusian, atau Komunikasi Ciptaan yang bertentangan dengan moral, agama, kesusilaan, ketertiban umum, atau pertahanan dan keamanan negara.
+Pasal 51
+Pemerintah dapat menyelenggarakan Pengumuman, Pendistribusian, atau Komunikasi atas suatu Ciptaan melalui radio, televisi dan/atau sarana lain untuk kepentingan nasional tanpa izin dari Pemegang Hak Cipta, dengan ketentuan wajib memberikan imbalan kepada Pemegang Hak Cipta.
+Lembaga Penyiaran yang melakukan Pengumuman, Pendistribusian, atau Komunikasi atas Ciptaan sebagaimana dimaksud pada ayat (1) berhak mendokumentasikan Ciptaan hanya untuk Lembaga Penyiaran tersebut dengan ketentuan untuk Penyiaran selanjutnya, Lembaga Penyiaran tersebut harus mendapatkan izin Pemegang Hak Cipta.
+BAB VII
+SARANA KONTROL TEKNOLOGI
+Pasal 52
+Setiap Orang dilarang merusak, memusnahkan, menghilangkan, atau membuat tidak berfungsi sarana kontrol teknologi yang digunakan sebagai pelindung Ciptaan atau produk Hak Terkait serta pengaman Hak Cipta atau Hak Terkait, kecuali untuk kepentingan pertahanan dan keamanan negara, serta sebab lain sesuai dengan ketentuan peraturan perundang-undangan, atau diperjanjikan lain.
+Pasal 53
+Ciptaan atau produk Hak Terkait yang menggunakan sarana produksi dan/atau penyimpanan data berbasis teknologi informasi dan/atau teknologi tinggi, wajib memenuhi aturan perizinan dan persyaratan produksi yang ditetapkan oleh instansi yang berwenang.
+Ketentuan lebih lanjut mengenai sarana produksi dan/atau penyimpanan data berbasis teknologi informasi dan/atau teknologi tinggi sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+BAB VIII
+KONTEN HAK CIPTA DAN HAK TERKAIT DALAM TEKNOLOGI INFORMASI DAN KOMUNIKASI
+Pasal 54
+Untuk mencegah pelanggaran Hak Cipta dan Hak Terkait melalui sarana berbasis teknologi informasi, Pemerintah berwenang melakukan:
+pengawasan terhadap pembuatan dan penyebarluasan konten pelanggaran Hak Cipta dan Hak Terkait;
+kerja sama dan koordinasi dengan berbagai pihak, baik dalam maupun luar negeri dalam pencegahan pembuatan dan penyebarluasan konten pelanggaran Hak Cipta dan Hak Terkait; dan
+pengawasan terhadap tindakan perekaman dengan menggunakan media apapun terhadap Ciptaan dan produk Hak Terkait di tempat pertunjukan.
+Pasal 55
+Setiap Orang yang mengetahui pelanggaran Hak Cipta dan/atau Hak Terkait melalui sistem elektronik untuk Penggunaan Secara Komersial dapat melaporkan kepada Menteri.
+Menteri memverifikasi laporan sebagaimana dimaksud pada ayat (1).
+Dalam hal ditemukan bukti yang cukup berdasarkan hasil verifikasi laporan sebagaimana dimaksud pada ayat (2), atas permintaan pelapor Menteri merekomendasikan kepada menteri yang menyelenggarakan urusan pemerintahan di bidang telekomunikasi dan informatika untuk menutup sebagian atau seluruh konten yang melanggar Hak Cipta dalam sistem elektronik atau menjadikan layanan sistem elektronik tidak dapat diakses.
+Dalam hal penutupan situs internet sebagaimana dimaksud pada ayat (3) dilakukan secara keseluruhan, dalam waktu paling lama 14 (empat belas) Hari setelah penutupan Menteri wajib meminta penetapan pengadilan.
+Pasal 56
+Menteri yang menyelenggarakan urusan pemerintahan di bidang telekomunikasi dan informatika berdasarkan rekomendasi sebagaimana dimaksud dalam Pasal 55 ayat (3) dapat menutup konten, dan/atau hak akses pengguna yang melanggar Hak Cipta dan/atau Hak terkait dalam sistem elektronik dan menjadikan layanan sistem elektronik tidak dapat diakses.
+Ketentuan lebih lanjut tentang pelaksanaan penutupan konten dan/atau hak akses pengguna yang melanggar Hak Cipta dan/atau Hak Terkait dalam sistem elektronik atau menjadikan layanan sistem elektronik sebagaimana dimaksud pada ayat (1) ditetapkan oleh peraturan bersama Menteri dan menteri yang tugas dan tanggung jawabnya di bidang komunikasi dan informatika.
+BAB IX
+MASA BERLAKU HAK CIPTA DAN HAK TERKAIT
+Bagian Kesatu
+Masa Berlaku Hak Cipta
+Paragraf 1
+Masa Berlaku Hak Moral
+Pasal 57
+Hak moral Pencipta sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf a, huruf b, dan huruf e berlaku tanpa batas waktu.
+Hak moral Pencipta sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf c dan huruf d berlaku selama berlangsungnya jangka waktu Hak Cipta atas Ciptaan yang bersangkutan.
+Paragraf 2
+Masa Berlaku Hak Ekonomi
+Pasal 58
+Pelindungan Hak Cipta atas Ciptaan:
+buku, pamflet, dan semua hasil karya tulis lainnya;
+ceramah, kuliah, pidato, dan Ciptaan sejenis lainnya;
+alat peraga yang dibuat untuk kepentingan pendidikan dan ilmu pengetahuan;
+lagu atau musik dengan atau tanpa teks;
+drama, drama musikal, tari, koreografi, pewayangan, dan pantomim;
+karya seni rupa dalam segala bentuk seperti lukisan, gambar, ukiran, kaligrafi, seni pahat, patung, atau kolase;
+karya arsitektur;
+peta; dan
+karya seni batik atau seni motif lain,
+berlaku selama hidup Pencipta dan terus berlangsung selama 70 (tujuh puluh) tahun setelah Pencipta meninggal dunia, terhitung mulai tanggal 1 Januari tahun berikutnya.
+Dalam hal Ciptaan sebagaimana dimaksud pada ayat (1) dimiliki oleh 2 (dua) orang atau lebih, pelindungan Hak Cipta berlaku selama hidup Pencipta yang meninggal dunia paling akhir dan berlangsung selama 70 (tujuh puluh) tahun sesudahnya, terhitung mulai tanggal 1 Januari tahun berikutnya.
+Pelindungan Hak Cipta atas Ciptaan sebagaimana dimaksud pada ayat (1) dan ayat (2) yang dimiliki atau dipegang oleh badan hukum berlaku selama 50 (lima puluh) tahun sejak pertama kali dilakukan Pengumuman.
+Pasal 59
+Pelindungan Hak Cipta atas Ciptaan:
+karya fotografi;
+Potret;
+karya sinematografi;
+permainan video;
+Program Komputer;
+perwajahan karya tulis;
+terjemahan, tafsir, saduran, bunga rampai, basis data, adaptasi, aransemen, modifikasi dan karya lain dari hasil transformasi;
+terjemahan, adaptasi, aransemen, transformasi atau modifikasi ekspresi budaya tradisional;
+kompilasi Ciptaan atau data, baik dalam format yang dapat dibaca dengan Program Komputer atau media lainnya; dan
+kompilasi ekspresi budaya tradisional selama kompilasi tersebut merupakan karya yang asli,
+berlaku selama 50 (lima puluh) tahun sejak pertama kali dilakukan Pengumuman.
+Pelindungan Hak Cipta atas Ciptaan berupa karya seni terapan berlaku selama 25 (dua puluh lima) tahun sejak pertama kali dilakukan Pengumuman.
+Pasal 60
+Hak Cipta atas ekspresi budaya tradisional yang dipegang oleh negara sebagaimana dimaksud dalam Pasal 38 ayat (1) berlaku tanpa batas waktu.
+Hak Cipta atas Ciptaan yang Penciptanya tidak diketahui yang dipegang oleh negara sebagaimana dimaksud Pasal 39 ayat (1) dan ayat (3) berlaku selama 50 (lima puluh) tahun sejak Ciptaan tersebut pertama kali dilakukan Pengumuman.
+Hak Cipta atas Ciptaan yang dilaksanakan oleh pihak yang melakukan Pengumuman sebagaimana dimaksud dalam Pasal 39 ayat (2) berlaku selama 50 (lima puluh) tahun sejak Ciptaan tersebut pertama kali dilakukan Pengumuman.
+Pasal 61
+Masa berlaku pelindungan Hak Cipta atas Ciptaan yang dilakukan Pengumuman bagian per bagian dihitung sejak tanggal Pengumuman bagian yang terakhir.
+Dalam menentukan masa berlaku pelindungan Hak Cipta atas Ciptaan yang terdiri atas 2 (dua) jilid atau lebih yang dilakukan Pengumuman secara berkala dan tidak bersamaan waktunya, setiap jilid Ciptaan dianggap sebagai Ciptaan tersendiri.
+Bagian Kedua
+Masa Berlaku Hak Terkait
+Paragraf 1
+Masa Berlaku Hak Moral Pelaku Pertunjukan
+Pasal 62
+Masa berlaku hak moral sebagaimana dimaksud dalam Pasal 57 berlaku secara mutatis mutandis terhadap hak moral Pelaku Pertunjukan.
+Paragraf 2
+Masa Berlaku Hak Ekonomi Pelaku Pertunjukan, Produser Fonogram, dan Lembaga Penyiaran
+Pasal 63
+Pelindungan hak ekonomi bagi:
+Pelaku Pertunjukan, berlaku selama 50 (lima puluh) tahun sejak pertunjukannya difiksasi dalam Fonogram atau audiovisual;
+Produser Fonogram, berlaku selama 50 (lima puluh) tahun sejak Fonogramnya difiksasi; dan
+Lembaga Penyiaran, berlaku selama 20 (dua puluh) tahun sejak karya siarannya pertama kali disiarkan.
+Masa berlaku pelindungan hak ekonomi sebagaimana dimaksud pada ayat (1) terhitung mulai tanggal 1 Januari tahun berikutnya.
+BAB X
+PENCATATAN CIPTAAN DAN PRODUK HAK TERKAIT
+Bagian Kesatu
+Umum
+Pasal 64
+Menteri menyelenggarakan pencatatan dan Penghapus dan Ciptaan dan produk Hak Terkait.
+Pencatatan Ciptaan dan produk Hak Terkait sebagaimana dimaksud pada ayat (1) bukan merupakan syarat untuk mendapatkan Hak Cipta dan Hak Terkait.
+Pasal 65
+Pencatatan Ciptaan tidak dapat dilakukan terhadap seni lukis yang berupa logo atau tanda pembeda yang digunakan sebagai merek dalam perdagangan barang/jasa atau digunakan sebagai lambang organisasi, badan usaha, atau badan hukum.
+Bagian Kedua
+Tata Cara Pencatatan
+Pasal 66
+Pencatatan Ciptaan dan produk Hak Terkait diajukan dengan Permohonan secara tertulis dalam bahasa Indonesia oleh Pencipta, Pemegang Hak Cipta, pemilik Hak Terkait, atau Kuasanya kepada Menteri.
+Permohonan sebagaimana dimaksud pada ayat (1) dilakukan secara elektronik dan/atau non elektronik dengan:
+menyertakan contoh Ciptaan, produk Hak Terkait, atau penggantinya;
+melampirkan surat pernyataan kepemilikan Ciptaan dan Hak Terkait; dan
+membayar biaya.
+Pasal 67
+Dalam hal Permohonan sebagaimana dimaksud dalam Pasal 66 ayat (1) diajukan oleh:
+beberapa orang yang secara bersama-sama berhak atas suatu Ciptaan atau produk Hak Terkait, Permohonan dilampiri keterangan tertulis yang membuktikan hak tersebut; atau
+badan hukum, Permohonan dilampiri salinan resmi akta pendirian badan hukum yang telah disahkan oleh pejabat berwenang.
+Dalam hal Permohonan diajukan oleh beberapa orang, nama pemohon harus dituliskan semua dengan menetapkan satu alamat pemohon yang terpilih.
+Dalam hal Permohonan diajukan oleh pemohon yang berasal dari luar wilayah Negara Kesatuan Republik Indonesia, Permohonan wajib dilakukan melalui konsultan kekayaan intelektual yang terdaftar sebagai Kuasa.
+Pasal 68
+Menteri melakukan pemeriksaan terhadap Permohonan yang telah memenuhi persyaratan sebagaimana dimaksud dalam Pasal 66 dan Pasal 67.
+Pemeriksaan sebagaimana dimaksud pada ayat (1) dilakukan untuk mengetahui Ciptaan atau produk Hak Terkait yang dimohonkan tersebut secara esensial sama atau tidak sama dengan Ciptaan yang tercatat dalam daftar umum Ciptaan atau objek kekayaan intelektual lainnya.
+Hasil pemeriksaan sebagaimana dimaksud pada ayat (1) digunakan sebagai bahan pertimbangan Menteri untuk menerima atau menolak Permohonan.
+Menteri memberikan keputusan menerima atau menolak permohonan dalam waktu paling lama 9 (sembilan) bulan terhitung sejak tanggal diterimanya Permohonan yang memenuhi persyaratan sebagaimana dimaksud dalam Pasal 66 dan Pasal 67.
+Pasal 69
+Dalam hal Menteri menerima Permohonan sebagaimana dimaksud dalam Pasal 68 ayat (4), Menteri menerbitkan surat pencatatan Ciptaan dan mencatat dalam daftar umum Ciptaan.
+Daftar umum Ciptaan sebagaimana dimaksud pada ayat (1) memuat:
+nama Pencipta dan Pemegang Hak Cipta, atau nama pemilik produk Hak Terkait;
+tanggal penerimaan surat Permohonan;
+tanggal lengkapnya persyaratan sebagaimana dimaksud dalam Pasal 66 dan Pasal 67; dan
+nomor pencatatan Ciptaan atau produk Hak Terkait.
+Daftar umum Ciptaan sebagaimana dimaksud pada ayat (2) dapat dilihat oleh setiap Orang tanpa dikenai biaya.
+Kecuali terbukti sebaliknya, surat pencatatan Ciptaan sebagaimana dimaksud pada ayat (1) merupakan bukti awal kepemilikan suatu Ciptaan atau produk Hak Terkait.
+Pasal 70
+Dalam hal Menteri menolak Permohonan sebagaimana dimaksud dalam Pasal 68 ayat (4), Menteri memberitahukan penolakan tersebut secara tertulis kepada pemohon disertai alasan.
+Pasal 71
+Terhadap Ciptaan atau produk Hak Terkait yang tercatat dalam daftar umum Ciptaan sebagaimana dimaksud dalam Pasal 69 ayat (1) dapat diterbitkan petikan resmi.
+Setiap Orang dapat memperoleh petikan resmi sebagaimana dimaksud pada ayat (1) dengan dikenai biaya.
+Pasal 72
+Pencatatan Ciptaan atau produk Hak Terkait dalam daftar umum Ciptaan bukan merupakan pengesahan atas isi, arti, maksud, atau bentuk dari Ciptaan atau produk Hak Terkait yang dicatat.
+Pasal 73
+Ketentuan lebih lanjut mengenai tata cara pencatatan Ciptaan dan produk Hak Terkait diatur dengan Peraturan Pemerintah.
+Bagian Ketiga
+Hapusnya Kekuatan Hukum Pencatatan Ciptaan dan Produk Hak Terkait
+Pasal 74
+Kekuatan hukum pencatatan Ciptaan dan produk Hak Terkait hapus karena:
+permintaan orang atau badan hukum yang namanya tercatat sebagai Pencipta, Pemegang Hak Cipta, atau pemilik Hak Terkait;
+lampaunya waktu sebagaimana dimaksud dalam Pasal 58, Pasal 59, Pasal 60 ayat (2) dan ayat (3), dan Pasal 61;
+putusan pengadilan yang telah memperoleh kekuatan hukum tetap mengenai pembatalan pencatatan Ciptaan atau produk Hak Terkait; atau
+melanggar norma agama, norma susila, ketertiban umum, pertahanan dan keamanan negara, atau peraturan perundang-undangan yang penghapusannya dilakukan oleh Menteri.
+Penghapusan pencatatan Ciptaan atas permintaan orang atau badan hukum yang namanya tercatat sebagai Pencipta, Pemegang Hak Cipta, atau pemilik Hak Terkait sebagaimana dimaksud pada ayat (1) huruf a dikenai biaya.
+Pasal 75
+Ketentuan lebih lanjut mengenai hapusnya kekuatan hukum pencatatan Ciptaan dan produk Hak Terkait sebagaimana dimaksud dalam Pasal 74 diatur dengan Peraturan Pemerintah.
+Bagian Keempat
+Pengalihan Hak atas pencatatan Ciptaan dan Produk Hak Terkait
+Pasal 76
+Pengalihan Hak atas pencatatan Ciptaan dan produk Hak Terkait sebagaimana dimaksud dalam Pasal 69 ayat (1) dapat dilakukan jika seluruh Hak Cipta atas Ciptaan tercatat dialihkan haknya kepada penerima hak.
+Pengalihan Hak sebagaimana dimaksud pada ayat (1) dilakukan dengan mengajukan permohonan tertulis dari kedua belah pihak atau dari penerima hak kepada Menteri.
+Pengalihan Hak sebagaimana dimaksud pada ayat (2) dicatat dalam daftar umum Ciptaan dengan dikenai biaya.
+Pasal 77
+Ketentuan lebih lanjut mengenai pengalihan hak atas pencatatan Ciptaan dan produk Hak Terkait sebagaimana dimaksud dalam Pasal 76 diatur dengan Peraturan Pemerintah.
+Bagian Kelima
+Perubahan Nama dan/atau Alamat
+Pasal 78
+Perubahan nama dan/atau alamat orang atau badan hukum yang namanya tercatat dalam daftar umum Ciptaan sebagai Pencipta, Pemegang Hak Cipta, atau pemilik produk Hak Terkait dilakukan dengan mengajukan Permohonan tertulis dari Pencipta, Pemegang Hak Cipta, atau pemilik produk Hak Terkait yang menjadi pemilik nama dan alamat tersebut kepada Menteri.
+Perubahan nama dan/atau alamat orang atau badan hukum yang namanya tercatat dalam daftar umum Ciptaan sebagai Pencipta, Pemegang Hak Cipta, atau pemilik produk Hak Terkait dicatat dalam daftar umum Ciptaan dengan dikenai biaya.
+Pasal 79
+Ketentuan lebih lanjut mengenai perubahan nama dan/atau alamat sebagaimana dimaksud dalam Pasal 78 diatur dengan Peraturan Pemerintah.
+BAB IX
+LISENSI DAN LISENSI WAJIB
+Bagian Kesatu
+Lisensi
+Pasal 80
+Kecuali diperjanjikan lain, pemegang Hak Cipta atau pemilik Hak Terkait berhak memberikan Lisensi kepada pihak lain berdasarkan perjanjian tertulis untuk melaksanakan perbuatan sebagaimana dimaksud dalam Pasal 9 ayat (1), Pasal 23 ayat (2), Pasal 24 ayat (2), dan Pasal 25 ayat (2).
+Perjanjian Lisensi sebagaimana dimaksud pada ayat (1) berlaku selama jangka waktu tertentu dan tidak melebihi masa berlaku Hak Cipta dan Hak Terkait.
+Kecuali diperjanjikan lain, pelaksanaan perbuatan sebagaimana dimaksud pada ayat (1) disertai kewajiban penerima Lisensi untuk memberikan Royalti kepada Pemegang Hak Cipta atau pemilik Hak Terkait selama jangka waktu Lisensi.
+Penentuan besaran Royalti sebagaimana dimaksud pada ayat (3) dan tata cara pemberian Royalti dilakukan berdasarkan perjanjian Lisensi antara Pemegang Hak Cipta atau pemilik Hak Terkait dan penerima Lisensi.
+Besaran Royalti dalam perjanjian Lisensi harus ditetapkan berdasarkan kelaziman praktik yang berlaku dan memenuhi unsur keadilan.
+Pasal 81
+Kecuali diperjanjikan lain, Pemegang Hak Cipta atau pemilik Hak Terkait dapat melaksanakan sendiri atau memberikan Lisensi kepada pihak ketiga untuk melaksanakan perbuatan sebagaimana dimaksud dalam Pasal 9 ayat (1), Pasal 23 ayat (2), Pasal 24 ayat (2), dan Pasal 25 ayat (2).
+Pasal 82
+Perjanjian Lisensi dilarang memuat ketentuan yang mengakibatkan kerugian perekonomian Indonesia.
+Isi perjanjian Lisensi dilarang bertentangan dengan ketentuan peraturan perundang-undangan.
+Perjanjian Lisensi dilarang menjadi sarana untuk menghilangkan atau mengambil alih seluruh hak Pencipta atas Ciptaannya.
+Pasal 83
+Perjanjian Lisensi harus dicatatkan oleh Menteri dalam daftar umum perjanjian Lisensi Hak Cipta dengan dikenai biaya.
+Perjanjian Lisensi yang tidak memenuhi ketentuan sebagaimana dimaksud dalam Pasal 82 tidak dapat dicatat dalam daftar umum perjanjian Lisensi.
+Jika perjanjian Lisensi tidak dicatat dalam daftar umum sebagaimana dimaksud pada ayat (1), perjanjian Lisensi tersebut tidak mempunyai akibat hukum terhadap pihak ketiga.
+Ketentuan lebih lanjut mengenai tata cara pencatatan perjanjian Lisensi sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Pemerintah.
+Bagian Kedua
+Lisensi Wajib
+Pasal 84
+Lisensi wajib merupakan Lisensi untuk melaksanakan penerjemahan dan/atau Penggandaan Ciptaan dalam bidang ilmu pengetahuan dan sastra yang diberikan berdasarkan keputusan Menteri atas dasar permohonan untuk kepentingan pendidikan dan/atau ilmu pengetahuan serta kegiatan penelitian dan pengembangan.
+Pasal 85
+Setiap Orang dapat mengajukan permohonan lisensi wajib terhadap Ciptaan dalam bidang ilmu pengetahuan dan sastra sebagaimana dimaksud dalam Pasal 84 untuk kepentingan pendidikan, ilmu pengetahuan, serta kegiatan penelitian dan pengembangan kepada Menteri.
+Pasal 86
+Terhadap permohonan lisensi dimaksud dalam Pasal 85, Menteri wajib sebagaimana dapat:
+mewajibkan Pemegang Hak Cipta untuk melaksanakan sendiri penerjemahan dan/atau Penggandaan Ciptaan di wilayah negara Republik Indonesia dalam waktu yang ditentukan;
+mewajibkan Pemegang Hak Cipta yang bersangkutan untuk memberikan izin kepada pihak lain untuk melaksanakan penerjemahan dan/atau Penggandaan Ciptaan di wilayah negara Republik Indonesia dalam waktu yang ditentukan dalam hal Pemegang Hak Cipta yang bersangkutan tidak melaksanakan sendiri; atau
+menunjuk pihak lain untuk melakukan penerjemahan dan/atau Penggandaan Ciptaan dalam hal Pemegang Hak Cipta tidak melaksanakan kewajiban sebagaimana dimaksud dalam huruf b.
+Kewajiban melaksanakan penerjemahan sebagaimana dimaksud pada ayat (1) dilaksanakan setelah lewat jangka waktu 3 (tiga) tahun sejak Ciptaan di bidang ilmu pengetahuan dan sastra dilakukan Pengumuman selama karya tersebut belum pernah diterjemahkan ke dalam bahasa Indonesia.
+Kewajiban melakukan Penggandaan sebagaimana dimaksud pada ayat (1) dilaksanakan setelah lewat jangka waktu:
+3 (tiga) tahun sejak buku di bidang matematika dan ilmu pengetahuan alam dilakukan Pengumuman dan buku tersebut belum pernah dilakukan Penggandaan di wilayah Negara Kesatuan Republik Indonesia;
+3 (tiga) tahun sejak buku di bidang ilmu sosial dilakukan Pengumuman dan buku tersebut belum pernah dilakukan Penggandaan di wilayah Negara Kesatuan Republik Indonesia;dan
+3 (tiga) tahun sejak buku di bidang seni dan sastra dilakukan Pengumuman dan buku tersebut belum pernah dilakukan Penggandaan di wilayah Negara Kesatuan Republik Indonesia.
+Penerjemahan atau Penggandaan sebagaimana dimaksud pada ayat (1) hanya digunakan di wilayah Negara Kesatuan Republik Indonesia.
+Pelaksanaan ketentuan sebagaimana dimaksud pada ayat (1) huruf b dan huruf c disertai imbalan yang wajar.
+Ketentuan lebih lanjut mengenai lisensi wajib diatur dengan Peraturan Pemerintah.
+BAB XII
+LEMBAGA MANAJEMEN KOLEKTIF
+Pasal 87
+Untuk mendapatkan hak ekonomi setiap Pencipta, Pemegang Hak Cipta, pemilik Hak Terkait menjadi anggota Lembaga Manajemen Kolektif agar dapat menarik imbalan yang wajar dari pengguna yang memanfaatkan Hak Cipta dan Hak Terkait dalam bentuk layanan publik yang bersifat komersial.
+Pengguna Hak Cipta dan Hak Terkait yang memanfaatkan Hak sebagaimana dimaksud pada ayat (1) membayar Royalti kepada Pencipta, Pemegang Hak Cipta, atau pemilik Hak Terkait, melalui Lembaga Manajemen Kolektif.
+Pengguna sebagaimana dimaksud pada ayat (1) membuat perjanjian dengan Lembaga Manajemen Kolektif yang berisi kewajiban untuk membayar Royalti atas Hak Cipta dan Hak Terkait yang digunakan.
+Tidak dianggap sebagai pelanggaran Undang-Undang ini, pemanfaatan Ciptaan dan/atau produk Hak Terkait secara komersial oleh pengguna sepanjang pengguna telah melakukan dan memenuhi kewajiban sesuai perjanjian dengan Lembaga Manajemen Kolektif.
+Pasal 88
+Lembaga Manajemen Kolektif sebagaimana dimaksud dalam Pasal 87 ayat (1) wajib mengajukan Permohonan izin operasional kepada Menteri.
+Izin operasional sebagaimana dimaksud pada ayat (1) harus memenuhi syarat:
+berbentuk badan hukum Indonesia yang bersifat nirlaba;
+mendapat kuasa dari Pencipta, Pemegang Hak Cipta, atau pemilik Hak Terkait untuk menarik, menghimpun, dan mendistribusikan Royalti;
+memiliki pemberi kuasa sebagai anggota paling sedikit 200 (dua ratus) orang Pencipta untuk Lembaga Manajemen Kolektif bidang lagu dan/atau musik yang mewakili kepentingan pencipta dan paling sedikit 50 (lima puluh) orang untuk Lembaga Manajemen Kolektif yang mewakili pemilik Hak Terkait dan/atau objek Hak Cipta lainnya;
+bertujuan untuk menarik, menghimpun, dan mendistribusikan Royalti; dan
+mampu menarik, menghimpun, dan mendistribusikan Royalti kepada Pencipta, Pemegang Hak Cipta, atau pemilik Hak Terkait.
+Lembaga Manajemen Kolektif yang tidak memiliki izin operasional dari Menteri sebagaimana dimaksud pada ayat (1) dilarang menarik, menghimpun, dan mendistribusikan Royalti.
+Pasal 89
+Untuk pengelolaan Royalti Hak Cipta bidang lagu dan/atau musik dibentuk 2 (dua) Lembaga Manajemen Kolektif nasional yang masing-masing merepresentasikan keterwakilan sebagai berikut:
+kepentingan Pencipta; dan
+kepentingan pemilik Hak Terkait.
+Kedua Lembaga Manajemen Kolektif sebagaimana dimaksud pada ayat (1) memiliki kewenangan untuk menarik, menghimpun, dan mendistribusikan Royalti dari Pengguna yang bersifat komersial.
+Untuk melakukan penghimpunan sebagaimana dimaksud pada ayat (2) kedua Lembaga Manajemen Kolektif wajib melakukan koordinasi dan menetapkan besaran Royalti yang menjadi hak masing-masing Lembaga Manajemen Kolektif dimaksud sesuai dengan kelaziman dalam praktik berdasarkan keadilan.
+Ketentuan mengenai pedoman penetapan besaran Royalti ditetapkan oleh Lembaga Manajemen Kolektif sebagaimana dimaksud pada ayat (1) dan disahkan oleh Menteri.
+Pasal 90
+Dalam melaksanakan pengelolaan hak Pencipta dan pemilik Hak Terkait Lembaga Manajemen Kolektif wajib melaksanakan audit keuangan dan audit kinerja yang dilaksanakan oleh akuntan publik paling sedikit 1 (satu) tahun sekali dan diumumkan hasilnya kepada masyarakat melalui 1 (satu) media cetak nasional dan 1 (satu) media elektronik.
+Pasal 91
+Lembaga Manajemen Kolektif hanya dapat menggunakan dana operasional paling banyak 20% (dua puluh persen) dari jumlah keseluruhan Royalti yang dikumpuikan setiap tahunnya.
+Pada 5 (lima) tahun pertama sejak berdirinya Lembaga Manajemen Kolektif berdasarkan Undang-Undang ini, Lembaga Manajemen Kolektif dapat menggunakan dana operasional paling banyak 30% (tiga puluh persen) dari jumlah keseluruhan Royalti yang dikumpulkan setiap tahunnya.
+Pasal 92
+Menteri melaksanakan evaluasi terhadap Lembaga Manajemen Kolektif, paling sedikit 1 (satu) kali dalam setahun.
+Dalam hal hasil evaluasi sebagaimana dimaksud pada ayat (1) menunjukkan Lembaga Manajemen Kolektif tidak memenuhi ketentuan sebagaimana dimaksud dalam Pasal 88, Pasal 89 ayat (3), Pasal 90, atau Pasal 91, Menteri mencabut izin operasional Lembaga Manajemen Kolektif.
+Pasal 93
+Ketentuan lebih lanjut mengenai tata cara permohonan dan penerbitan izin operasional, serta evaluasi mengenai Lembaga Manajemen Kolektif diatur dengan Peraturan Menteri.
+BAB XIII
+BIAYA
+Pasal 94
+Biaya sebagaimana dimaksud dalam Pasal 66 ayat (2) huruf c, Pasal 71 ayat (2), Pasal 74 ayat (2), Pasal 76 ayat (3), Pasal 78 ayat (2), dan Pasal 83 ayat (1) merupakan penerimaan negara bukan pajak yang dipungut sesuai dengan ketentuan peraturan perundang-undangan di bidang penerimaan negara bukan pajak.
+BAB XIV
+PENYELESAIAN SENGKETA
+Bagian Kesatu
+Umum
+Pasal 95
+Penyelesaian sengketa Hak Cipta dapat dilakukan melalui alternatif penyelesaian sengketa, arbitrase, atau pengadilan.
+Pengadilan yang berwenang sebagaimana dimaksud ayat (1) adalah Pengadilan Niaga.
+Pengadilan lainnya selain Pengadilan Niaga sebagaimana dimaksud ayat (2) tidak berwenang menangani penyelesaian sengketa Hak Cipta.
+Selain pelanggaran Hak Cipta dan/atau Hak Terkait dalam bentuk Pembajakan, sepanjang para pihak yang bersengketa diketahui keberadaannya dan/atau berada di wilayah Negara Kesatuan Republik Indonesia harus menempuh terlebih dahulu penyelesaian sengketa melalui mediasi sebelum melakukan tuntutan pidana.
+Pasal 96
+Pencipta, pemegang Hak Cipta dan/atau pemegang Hak Terkait atau ahli warisnya yang mengalami kerugian hak ekonomi berhak memperoleh Ganti Rugi.
+Ganti Rugi sebagaimana dimaksud pada ayat (1) diberikan dan dicantumkan sekaligus dalam amar putusan pengadilan tentang perkara tindak pidana Hak Cipta dan/atau Hak Terkait.
+Pembayaran Ganti Rugi kepada Pencipta, Pemegang Hak Cipta dan/atau pemilik Hak Terkait dibayarkan paling lama 6 (enam) bulan setelah putusan pengadilan yang berkekuatan hukum tetap.
+Pasal 97
+Dalam hal Ciptaan telah dicatat menurut ketentuan Pasal 69 ayat (1), pihak lain yang berkepentingan dapat mengajukan gugatan pembatalan pencatatan Ciptaan dalam daftar umum Ciptaan melalui Pengadilan Niaga.
+Gugatan sebagaimana dimaksud pada ayat (1) ditujukan kepada Pencipta dan/atau Pemegang Hak Cipta terdaftar.
+Pasal 98
+Pengalihan Hak Cipta atas seluruh Ciptaan kepada pihak lain tidak mengurangi hak Pencipta atau ahli warisnya untuk menggugat setiap Orang yang dengan sengaja dan tanpa hak dan tanpa persetujuan Pencipta yang melanggar hak moral Pencipta sebagaimana dimaksud dalam Pasal 5 ayat (1).
+Pengalihan hak ekonomi Pelaku Pertunjukan kepada pihak lain tidak mengurangi hak Pelaku Pertunjukan atau ahli warisnya untuk menggugat setiap Orang yang dengan sengaja dan tanpa hak dan tanpa persetujuan Pelaku Pertunjukan yang melanggar hak moral Pelaku Pertunjukan sebagaimana dimaksud dalam Pasal 22.
+Pasal 99
+Pencipta, Pemegang Hak Cipta, atau pemilik Hak Terkait berhak mengajukan gugatan ganti rugi kepada Pengadilan Niaga atas pelanggaran Hak Cipta atau produk Hak Terkait.
+Gugatan ganti rugi sebagaimana dimaksud pada ayat (1) dapat berupa permintaan untuk menyerahkan seluruh atau sebagian penghasilan yang diperoleh dari penyelenggaraan ceramah, pertemuan ilmiah, pertunjukan atau pameran karya yang merupakan hasil pelanggaran Hak Cipta atau produk Hak Terkait.
+Selain gugatan sebagaimana dimaksud pada ayat (1), Pencipta, Pemegang Hak Cipta, atau pemilik Hak Terkait dapat memohon putusan provisi atau putusan sela kepada Pengadilan Niaga untuk:
+meminta penyitaan Ciptaan yang dilakukan Pengumuman atau Penggandaan, dan/atau alat Penggandaan yang digunakan untuk menghasilkan Ciptaan hasil pelanggaran Hak Cipta dan produk Hak Terkait; dan/atau
+menghentikan kegiatan Pengumuman, pendistribusian, Komunikasi, dan/atau Penggandaan Ciptaan yang merupakan hasil pelanggaran Hak Cipta dan produk Hak Terkait.
+Bagian Kedua
+Tata Cara Gugatan
+Pasal 100
+Gugatan atas pelanggaran Hak Cipta diajukan kepada ketua Pengadilan Niaga.
+Gugatan sebagaimana dimaksud pada ayat (1) dicatat oleh panitera Pengadilan Niaga dalam register perkara pengadilan pada tanggal gugatan tersebut didaftarkan.
+Panitera Pengadilan Niaga memberikan tanda terima yang telah ditandatangani pada tanggal yang sama dengan tanggal pendaftaran.
+Panitera Pengadilan Niaga menyampaikan permohonan gugatan kepada ketua Pengadilan Niaga dalam waktu paling lama 2 (dua) Hari terhitung sejak tanggal gugatan didaftarkan.
+Dalam waktu paling lama 3 (tiga) Hari terhitung sejak gugatan didaftarkan, Pengadilan Niaga menetapkan Hari sidang.
+Pemberitahuan dan pemanggilan para pihak dilakukan oleh juru sita dalam waktu paling lama 7 (tujuh) Hari terhitung sejak gugatan didaftarkan.
+Pasal 101
+Putusan atas gugatan harus diucapkan paling lama 90 (sembilan puluh) Hari sejak gugatan didaftarkan.
+Dalam hal jangka waktu sebagaimana dimaksud pada ayat (1) tidak dapat dipenuhi, atas persetujuan Ketua Mahkamah Agung jangka waktu tersebut dapat diperpanjang selama 30 (tiga puluh) Hari.
+Putusan sebagaimana dimaksud pada ayat (1) harus diucapkan dalam sidang terbuka untuk umum.
+Putusan Pengadilan Niaga sebagaimana dimaksud pada ayat (3) harus disampaikan oleh juru sita kepada para pihak paling lama 14 (empat belas) Hari terhitung sejak putusan diucapkan.
+Bagian Ketiga
+Upaya Hukum
+Pasal 102
+Terhadap putusan Pengadilan Niaga sebagaimana dimaksud dalam Pasal 101 ayat (3) hanya dapat diajukan kasasi.
+Permohonan kasasi sebagaimana dimaksud pada ayat (1) diajukan paling lama 14 (empat belas) Hari terhitung sejak tanggal putusan Pengadilan Niaga diucapkan dalam sidang terbuka atau diberitahukan kepada para pihak.
+Permohonan sebagaimana dimaksud pada ayat (21 didaftarkan pada Pengadilan Niaga yang telah memutus gugatan tersebut dengan membayar biaya yang besarannya ditetapkan oleh pengadilan.
+Panitera Pengadilan Niaga mendaftarkan permohonan kasasi pada tanggal permohonan diajukan dan memberikan tanda terima yang telah ditandatanganinya kepada pemohon kasasi pada tanggal yang sama dengan
+tanggal pendaftaran.
+Panitera Pengadilan Niaga wajib menyampaikan permohonan kasasi sebagaimana dimaksud pada ayat (4) kepada termohon kasasi paling lama 7 (tujuh) Hari terhitung sejak permohonan kasasi didaftarkan.
+Pasal 103
+Pemohon kasasi wajib menyampaikan memori kasasi kepada panitera Pengadilan Niaga dalam waktu paling lama 14 (empat belas) Hari terhitung sejak tanggal permohonan kasasi didaftarkan.
+Panitera Pengadilan Niaga wajib mengirimkan memori kasasi sebagaimana dimaksud pada ayat (1) kepada termohon kasasi dalam waktu paling lama 7 (tujuh) Hari terhitung sejak panitera Pengadilan Niaga menerima memori kasasi.
+Termohon kasasi dapat mengajukan kontra memori kasasi kepada panitera Pengadilan Niaga dalam waktu paling lama 14 (empat belas) Hari terhitung sejak termohon kasasi menerima memori kasasi.
+Panitera Pengadilan Niaga wajib menyampaikan kontra memori kasasi kepada pemohon kasasi dalam waktu paling lama 7 (tujuh) Hari terhitung sejak panitera Pengadilan Niaga menerima kontra memori kasasi.
+Panitera Pengadilan Niaga wajib mengirimkan berkas perkara kasasi kepada Mahkamah Agung dalam waktu paling lama 14 (empat belas) Hari terhitung sejak jangka waktu sebagaimana dimaksud pada ayat (3).
+Pasal 104
+Dalam waktu paling lama 7 (tujuh) Hari terhitung sejak Mahkamah Agung menerima permohonan kasasi, Mahkamah Agung menetapkan Hari sidang.
+Putusan kasasi harus diucapkan paling lama 90 (sembilan puluh) Hari terhitung sejak tanggal permohonan kasasi diterima oleh Mahkamah Agung.
+Panitera Mahkamah Agung wajib menyampaikan salinan putusan kasasi kepada panitera Pengadilan Niaga paling lama 7 (tujuh) Hari terhitung sejak putusan kasasi diucapkan.
+Juru sita Pengadilan Niaga wajib menyampaikan salinan putusan kasasi sebagaimana dimaksud pada ayat (3) kepada pemohon kasasi dan termohon kasasi dalam waktu paling lama 7 (tujuh) Hari terhitung sejak panitera Pengadilan Niaga menerima putusan kasasi.
+Pasal 105
+Hak untuk mengajukan gugatan keperdataan atas pelanggaran Hak Cipta dan/atau Hak Terkait tidak mengurangi Hak Pencipta dan/atau pemilik Hak Terkait untuk menuntut secara pidana.
+BAB XV
+PENETAPAN SEMENTARA PENGADILAN
+Pasal 106
+Atas permintaan pihak yang merasa dirugikan karena pelaksanaan Hak Cipta atau Hak Terkait, Pengadilan Niaga dapat mengeluarkan penetapan sementara untuk:
+mencegah masuknya barang yang diduga hasil pelanggaran Hak Cipta atau Hak Terkait ke jalur perdagangan;
+menarik dari peredaran dan menyita serta menyimpan sebagai alat bukti yang berkaitan dengan pelanggaran Hak Cipta atau Hak Terkait tersebut;
+mengamankan barang bukti dan mencegah penghilangannya oleh pelanggar; dan/atau
+menghentikan pelanggaran guna mencegah kerugian yang lebih besar.
+Pasal 107
+Permohonan penetapan sementara diajukan secara tertulis oleh Pencipta, Pemegang Hak Cipta, pemilik Hak Terkait, atau Kuasanya kepada Pengadilan Niaga dengan memenuhi persyaratan:
+melampirkan bukti kepemilikan Hak Cipta atau Hak Terkait;
+melampirkan petunjuk awal terjadinya pelanggaran Hak Cipta atau Hak Terkait;
+melampirkan keterangan yang jelas mengenai barang dan/atau dokumen yang diminta, dicari, dikumpulkan, atau diamankan untuk keperluan pembuktian;
+melampirkan pernyataan adanya kekhawatiran bahwa pihak yang diduga melakukan pelanggaran Hak Cipta atau Hak Terkait akan menghilangkan barang bukti; dan
+membayar jaminan yang besaran jumlahnya sebanding dengan nilai barang yang akan dikenai penetapan sementara.
+Permohonan penetapan sementara pengadilan sebagaimana dimaksud pada ayat (1) diajukan kepada ketua Pengadilan Niaga di wilayah hukum tempat ditemukannya barang yang diduga merupakan hasil pelanggaran Hak Cipta atau Hak Terkait.
+Pasal 108
+Jika permohonan penetapan sementara telah memenuhi persyaratan sebagaimana dimaksud dalam Pasal 107, panitera Pengadilan Niaga mencatat permohonan dan wajib menyerahkan permohonan penetapan sementara dalam waktu paling lama 1x24 (satu kali dua puluh empat) jam kepada ketua Pengadilan Niaga.
+Dalam waktu paling lama 2 (dua) Hari terhitung sejak tanggal diterimanya permohonan penetapan sementara sebagaimana dimaksud pada ayat (1), ketua Pengadilan Niaga menunjuk hakim Pengadilan Niaga untuk memeriksa permohonan penetapan sementara.
+Dalam waktu paling lama 2 (dua) Hari terhitung sejak tanggal penunjukkan sebagaimana dimaksud pada ayat (2), hakim Pengadilan Niaga memutuskan untuk mengabulkan atau menolak permohonan penetapan sementara.
+Dalam hal permohonan penetapan sementara dikabulkan, hakim Pengadilan Niaga mengeluarkan penetapan sementara pengadilan.
+Penetapan sementara pengadilan sebagaimana dimaksud pada ayat (4) diberitahukan kepada pihak yang dikenai tindakan penetapan sementara pengadilan dalam waktu paling lama 1x24 (satu kali dua puluh empat) jam.
+Dalam hal permohonan penetapan sementara ditolak, hakim Pengadilan Niaga memberitahukan penolakan tersebut kepada pemohon penetapan sementara dengan disertai alasan.
+Pasal 109
+Dalam hal Pengadilan Niaga mengeluarkan penetapan sementara sebagaimana dimaksud dalam Pasal 108 ayat (4), Pengadilan Niaga memanggil pihak yang dikenai penetapan sementara dalam waktu paling lama 7 (tujuh) Hari terhitung sejak tanggal dikeluarkannya penetapan sementara untuk dimintai keterangan.
+Pihak yang dikenai penetapan sementara dapat menyampaikan keterangan dan bukti mengenai Hak Cipta dalam waktu paling lama 7 (tujuh) Hari terhitung sejak tanggal diterimanya panggilan sebagaimana dimaksud pada ayat (1).
+Dalam waktu paling lama 30 (tiga puluh) Hari terhitung sejak tanggal dikeluarkannya penetapan sementara, hakim Pengadilan Niaga memutuskan untuk menguatkan atau membatalkan penetapan sementara pengadilan.
+Dalam hal penetapan sementara pengadilan dikuatkan maka:
+uang jaminan yang telah dibayarkan harus dikembalikan kepada pemohon penetapan;
+pemohon penetapan dapat mengajukan gugatan ganti rugi atas pelanggaran Hak Cipta; dan/atau
+pemohon dapat melaporkan pelanggaran Hak Cipta kepada pejabat penyidik Kepolisian Negara Republik Indonesia atau pejabat penyidik pegawai negeri sipil.
+Dalam hal penetapan sementara pengadilan dibatalkan, uang jaminan yang telah dibayarkan wajib diserahkan kepada pihak yang dikenai penetapan sementara sebagai ganti rugi akibat penetapan sementara tersebut.
+BAB XVI
+PENYIDIKAN
+Pasal 110
+Selain penyidik pejabat Kepolisian Negara Republik Indonesia, Pejabat Pegawai Negeri Sipil tertentu di lingkungan kementerian yang menyelenggarakan urusan pemerintahan di bidang hukum diberi wewenang khusus sebagai penyidik sebagaimana dimaksud dalam Undang-Undang yang mengatur mengenai hukum acara pidana untuk melakukan penyidikan tindak pidana Hak Cipta dan Hak Terkait.
+Penyidik sebagaimana dimaksud pada ayat (1) berwenang melakukan:
+pemeriksaan atas kebenaran laporan atau keterangan berkenaan dengan tindak pidana di bidang Hak Cipta dan Hak Terkait;
+pemeriksaan terhadap pihak atau badan hukum yang diduga melakukan tindak pidana di bidang Hak Cipta dan Hak Terkait;
+permintaan keterangan dan barang bukti dari pihak atau badan hukum sehubungan dengan tindak pidana di bidang Hak Cipta dan Hak Terkait;
+pemeriksaan atas pembukuan, pencatatan, dan dokumen lain berkenaan dengan tindak pidana di bidang Hak Cipta dan Hak Terkait;
+penggeledahan dan pemeriksaan di tempat yang diduga terdapat barang bukti, pembukuan, pencatatan, dan dokumen lain yang berkenaan dengan tindak pidana di bidang Hak Cipta dan Hak Terkait;
+penyitaan dan/atau penghentian peredaran atas izin pengadilan terhadap bahan dan barang hasil pelanggaran yang dapat dijadikan bukti dalam perkara tindak pidana di bidang Hak Cipta dan Hak Terkait sesuai dengan Kitab Undang-Undang Hukum Acara Pidana;
+permintaan keterangan ahli dalam melaksanakan tugas penyidikan tindak pidana di bidang Hak Cipta dan Hak Terkait;
+permintaan bantuan kepada instansi terkait untuk melakukan penangkapan, penahanan, penetapan daftar pencarian orang, pencegahan dan penangkalan terhadap pelaku tindak pidana di bidang Hak Cipta dan Hak Terkait; dan
+penghentian penyidikan jika tidak terdapat cukup bukti adanya tindak pidana di bidang Hak Cipta dan Hak Terkait.
+Dalam melakukan penyidikan, penyidik pejabat pegawai negeri sipil dapat meminta bantuan penyidik pejabat Kepolisian Negara Republik Indonesia.
+Penyidik pejabat pegawai negeri sipil memberitahukan dimulainya penyidikan kepada penuntut umum dan penyidik pejabat Kepolisian Negara Republik Indonesia.
+Hasil penyidikan yang telah dilakukan oleh penyidik pejabat pegawai negeri sipil disampaikan kepada penuntut umum melalui penyidik pejabat Kepolisian Negara Republik Indonesia.
+Dalam hal melakukan tindakan sebagaimana diatur pada ayat (2) huruf e dan huruf f Penyidik Pegawai Negeri Sipil meminta bantuan penyidik pejabat Kepolisian Negara Republik Indonesia.
+Pasal 111
+Pembuktian yang dilakukan dalam proses pemeriksaan di tingkat penyidikan, penuntutan, dan pemeriksaan di pengadilan dapat dilakukan dengan memanfaatkan teknologi informasi dan komunikasi sesuai dengan ketentuan peraturan perundang-undangan.
+Informasi elektronik dan/atau dokumen elektronik diakui sebagai alat bukti sesuai dengan ketentuan peraturan perundang-undangan.
+BAB XVII
+KETENTUAN PIDANA
+Pasal 112
+Setiap Orang yang dengan tanpa hak melakukan perbuatan sebagaimana dimaksud dalam Pasal 7 ayat (3) dan/atau pasal 52 untuk Penggunaan Secara Komersial, dipidana dengan pidana penjara paling lama 2 (dua) tahun dan/atau pidana denda paling banyak Rp300.000.000,00 (tiga ratus juta rupiah).
+Pasal 113
+Setiap Orang yang dengan tanpa hak melakukan pelanggaran hak ekonomi sebagaimana dimaksud dalam Pasal 9 ayat (1) huruf i untuk Penggunaan Secara Komersial dipidana dengan pidana penjara paling lama 1 (satu) tahun dan/atau pidana denda paling banyak Rp100.000.000,00 (seratus juta rupiah).
+Setiap Orang yang dengan tanpa hak dan/atau tanpa izin Pencipta atau pemegang Hak Cipta melakukan pelanggaran hak ekonomi Pencipta sebagaimana dimaksud dalam Pasal 9 ayat (1) huruf c, huruf d, huruf f, dan/atau huruf h untuk Penggunaan Secara Komersial dipidana dengan pidana penjara paling lama 3 (tiga) tahun dan/atau pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah).
+Setiap Orang yang dengan tanpa hak dan/atau tanpa izin Pencipta atau pemegang Hak Cipta melakukan pelanggaran hak ekonomi Pencipta sebagaimana dimaksud dalam Pasal 9 ayat (1) huruf a, huruf b, huruf e, dan/atau huruf g untuk Penggunaan Secara Komersial dipidana dengan pidana penjara paling lama 4 (empat) tahun dan/atau pidana denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah).
+Setiap Orang yang memenuhi unsur sebagaimana dimaksud pada ayat (3) yang dilakukan dalam bentuk pembajakan, dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun dan/atau pidana denda paling banyak Rp4.000.000.000,00 (empat miliar rupiah).
+Pasal 114
+Setiap Orang yang mengelola tempat perdagangan dalam segala bentuknya yang dengan sengaja dan mengetahui membiarkan penjualan dan/atau penggandaan barang hasil pelanggaran Hak Cipta dan/ atau Hak Terkait di tempat perdagangan yang dikelolanya sebagaimana dimaksud dalam Pasal 10, dipidana dengan pidana denda paling banyak Rp100.000.000,00 (seratus juta rupiah).
+Pasal 115
+Setiap Orang yang tanpa persetujuan dari orang yang dipotret atau ahli warisnya melakukan Penggunaan Secara Komersial, Penggandaan, Pengumuman, Pendistribusian, atau Komunikasi atas Potret sebagaimana dimaksud dalam Pasal 12 untuk kepentingan reklame atau periklanan untuk Penggunaan Secara Komersial baik dalam media elektronik maupun non elektronik, dipidana dengan pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah).
+Pasal 116
+Setiap Orang yang dengan tanpa hak melakukan pelanggaran hak ekonomi sebagaimana dimaksud dalam Pasal 23 ayat (2) huruf e untuk Penggunaan Secara Komersial dipidana dengan pidana penjara paling lama 1 (satu) tahun dan/atau pidana denda paling banyak Rp100.000.000,00 (seratus juta rupiah).
+Setiap Orang yang dengan tanpa hak melakukan pelanggaran hak ekonomi sebagaimana dimaksud dalam Pasal 23 ayat (2) huruf a, huruf b, dan/atau huruf f, untuk Penggunaan Secara Komersial dipidana dengan pidana penjara paling lama 3 (tiga) tahun dan/atau pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah).
+Setiap Orang yang dengan tanpa hak melakukan pelanggaran hak ekonomi sebagaimana dimaksud dalam Pasal 23 ayat (2) huruf c, dan/atau huruf d untuk Penggunaan Secara Komersial dipidana dengan pidana penjara paling lama 4 (empat) tahun dan/atau pidana denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah).
+Setiap Orang yang memenuhi unsur sebagaimana dimaksud pada ayat (3) yang dilakukan dalam bentuk Pembajakan dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun dan/atau pidana denda paling banyak Rp4.000.000.000,00 (empat miliar rupiah).
+Pasal 117
+Setiap Orang yang dengan sengaja dan tanpa hak melakukan pelanggaran hak ekonomi sebagaimana dimaksud dalam Pasal 24 ayat (2) huruf c untuk Penggunaan Secara Komersial dipidana dengan pidana penjara paling lama 1 (satu) tahun dan/atau pidana denda paling banyak Rp100.000.000,00 (seratus juta rupiah).
+Setiap Orang yang dengan sengaja dan tanpa hak melakukan pelanggaran hak ekonomi sebagaimana dimaksud dalam pasal 24 ayat (2) huruf a, huruf b, dan/atau huruf d untuk Penggunaan Secara Komersial, dipidana dengan pidana penjara paling lama 4 (empat) tahun dan/atau pidana denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah).
+Setiap Orang yang memenuhi unsur sebagaimana dimaksud pada ayat (2) yang dilakukan dalam bentuk Pembajakan dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun dan/atau pidana denda paling banyak Rp4.000.000.000,00 (empat miliar rupiah).
+Pasal 118
+Setiap Orang yang dengan sengaja dan tanpa hak melakukan pelanggaran hak ekonomi sebagaimana dimaksud dalam Pasal 25 ayat (2) huruf a, huruf b, huruf c, dan/atau huruf d untuk Penggunaan Secara Komersial, dipidana dengan pidana penjara paling lama 4 (empat) tahun dan/atau pidana denda paling banyak Rp 1.000.000.000,00 (satu miliar rupiah).
+Setiap Orang yang memenuhi unsur sebagaimana dimaksud dalam Pasal 25 ayat (2) huruf d yang dilakukan dengan maksud Pembajakan dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun dan/atau pidana denda paling banyak Rp4.000.000.000,00 (empat miliar rupiah).
+Pasal 119
+Setiap Lembaga Manajemen Kolektif yang tidak memiliki izin operasional dari Menteri sebagaimana dimaksud dalam Pasal 88 ayat (3) dan melakukan kegiatan penarikan Royalti dipidana dengan pidana penjara paling lama 4 (empat) tahun dan/atau pidana denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah).
+Pasal 120
+Tindak pidana sebagaimana dimaksud dalam Undang-Undang ini merupakan delik aduan.
+BAB XVIII
+KETENTUAN PERALIHAN
+Pasal 121
+Pada saat Undang-Undang ini mulai berlaku:
+Permohonan pencatatan Ciptaan dan produk Hak Terkait yang masih dalam proses, diselesaikan berdasarkan ketentuan Undang-Undang Nomor 19 Tahun 2002 tentang Hak Cipta;
+surat pendaftaran Ciptaan yang dengan Undang-Undang ini disebut surat pencatatan Ciptaan yang telah dikeluarkan sebelum Undang-Undang ini, masih tetap berlaku sampai dengan masa pelindungannya berakhir;
+perikatan jual beli terhadap hak ekonomi atas Ciptaan berupa lagu dan/atau musik yang dilakukan sebelum Undang-Undang ini berlaku tetap berlaku sampai dengan jangka waktu perikatan berakhir;
+perkara Hak Cipta yang sedang dalam proses, tetap diproses berdasarkan Undang-Undang Nomor 19 Tahun 2002 tentang Hak Cipta;
+penghimpunan dan Pendistribusian Royalti yang dilakukan oleh organisasi profesi atau lembaga sejenis dengan sebutan apapun yang telah ada sebelum Undang-Undang ini berlaku tetap dapat dilakukan sampai dengan terbentuknya Lembaga Manajemen Kolektif sesuai dengan ketentuan Undang-Undang ini;
+organisasi profesi atau lembaga sejenis dengan sebutan apapun sebagaimana dimaksud dalam huruf e, berlaku ketentuan sebagaimana dimaksud dalam Pasal 87, Pasal 88, dan Pasal 89 terhitung sejak berlakunya Undang-Undang ini;
+organisasi profesi atau lembaga sejenis dengan sebutan apapun yang telah ada yang tugas dan fungsinya menghimpun, mengelola, dan/atau mendistribusikan Royalti sebelum berlakunya Undang-Undang ini wajib menyesuaikan dan berubah menjadi Lembaga Manajemen Kolektif dalam jangka waktu paling lama 2 (dua) tahun sejak berlakunya Undang-Undang ini.
+Pasal 122
+Pada saat Undang-Undang ini mulai berlaku, perjanjian atas Ciptaan buku dan/ atau hasil karya tulis lainnya serta lagu dan/atau musik dengan atau tanpa teks yang dialihkan dalam perjanjian jual putus dan/atau pengalihan tanpa batas waktu yang telah dibuat sebelum berlakunya Undang-Undang ini dikembalikan kepada Pencipta dengan ketentuan sebagai berikut:
+Perjanjian jual putus yang pada saat diberlakukannya Undang-Undang ini telah mencapai jangka waktu 25 (dua puluh lima) tahun dikembalikan Hak Ciptanya kepada Pencipta 2 (dua) tahun sejak berlakunya Undang-Undang ini;
+Perjanjian jual putus yang pada saat diberlakukannya Undang-Undang ini belum mencapai jangka waktu 25 (dua puluh lima) tahun dikembalikan Hak Ciptanya kepada Pencipta setelah mencapai 25 (dua puluh lima) tahun sejak ditandatanganinya perjanjian jual putus dimaksud ditambah 2 (dua) tahun.
+BAB XIX
+KETENTUAN PENUTUP
+Pasal 123
+Pada saat Undang-Undang ini mulai berlaku, semua peraturan perundang-undangan yang merupakan peraturan pelaksanaan dari Undang-Undang Nomor 19 Tahun 2002 tentang Hak Cipta (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 85, Tambahan Lembaran Negara Republik Indonesia Nomor 4220), dinyatakan masih tetap berlaku sepanjang tidak bertentangan dengan ketentuan dalam Undang-Undang ini.
+Pasal 124
+Pada saat Undang-Undang ini mulai berlaku, Undang-Undang Nomor 19 Tahun 2002 tentang Hak Cipta (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 85, Tambahan Lembaran Negara Republik Indonesia Nomor 4220) dicabut dan dinyatakan tidak berlaku.
+Pasal 125
+Peraturan pelaksanaan Undang-Undang ini harus ditetapkan paling lama 2 (dua) tahun terhitung sejak Undang-Undang ini diundangkan.
+Pasal 126
+Undang-Undang ini mulai berlaku pada tanggal diundangkan.
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+Disahkan di Jakarta
+pada tanggal 16 Oktober 2014
+PRESIDEN REPUBLIK INDONESIA,
+ttd.
+DR. H. SUSILO BAMBANG YUDHOYONO
+Diundangkan di Jakarta
+pada tanggal 16 Oktober 2014
+MENTERI HUKUM DAN HAK ASASI MANUSIA
+REPUBLIK INDONESIA,
+ttd.
+AMIR SYAMSUDIN
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2014 NOMOR 266
+Salinan sesuai dengan aslinya
+KEMENTERIAN SEKRETARIAT NEGARA
+REPUBLIK INDONESIA
+Asisten Deputi Perundang-undangan
+Bidang Perekonomian,
+cap dan ttd.
+Lydia Silvanna Djaman

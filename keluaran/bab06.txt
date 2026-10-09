@@ -1,0 +1,23 @@
+# Blok keluaran yang tercetak di Bab 6 (bab06-multihead.tex).
+# Diperiksa oleh periksa.py terhadap kode/bab06_*.py.
+
+=== blok 1 ===
+(1) Data mini, h = 2, d_k = 1, W_O = I, kausal:
+    head 1: A = [[1.     0.     0.    ]
+                  [0.2689 0.7311 0.    ]
+                  [0.0634 0.4683 0.4683]]
+    head 2: A = [[1.     0.     0.    ]
+                  [0.7311 0.2689 0.    ]
+                  [0.4223 0.1554 0.4223]]
+    keluaran = [[ 1.      1.    ]
+                [-0.4621  1.    ]
+                [-0.4049  1.4223]]
+(2) Acak d = 8, h = 4, kausal, lawan nn.MultiheadAttention:
+    selisih maks = 2.2e-16
+
+=== blok 2 ===
+(3) Satu lapisan attention, d = 16, salin 4 token sekaligus:
+     h pertama     t-1     t-2     t-3
+     1   0.770   0.229   0.259   0.359
+     2   0.859   0.972   0.838   0.936
+     4   1.000   1.000   1.000   1.000

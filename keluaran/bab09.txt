@@ -1,0 +1,23 @@
+# Blok keluaran yang tercetak di Bab 9 (bab09-normalisasi.tex).
+# Diperiksa oleh periksa.py terhadap kode/bab09_*.py.
+
+=== blok 1 ===
+(1) LayerNorm dan RMSNorm, eps = 0:
+    LN  (0, 2, 4) = [-1.2247  0.      1.2247]
+    LN  (1, 2, 6) = [-0.9258 -0.4629  1.3887]
+    RMS (0, 2, 4) = [0.     0.7746 1.5492]
+    PyTorch layer_norm: selisih maks = 0.0e+00
+    norma baris LN = [1.7321 1.7321]  sqrt(3) = 1.7321
+
+=== blok 2 ===
+(2) Backward LayerNorm lawan autograd (4 x 6 acak):
+    selisih maks dX 2.2e-16, dg 3.3e-16, db 0.0e+00
+    maks |jumlah baris dX| = 2.8e-16
+    maks |dX . x_hat|      = 9.9e-06
+
+=== blok 3 ===
+(3) Post-LN lawan pre-LN, 12 lapisan, 400 langkah Adam:
+    batas bawah loss = 15/31 log 16 = 1.3416
+        lr   post-LN   pre-LN   post-LN + warmup 100
+     1e-03     1.362    1.348        1.348
+     3e-03     2.776    1.346        1.660

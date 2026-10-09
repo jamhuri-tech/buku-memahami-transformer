@@ -1,0 +1,26 @@
+# Setiap perubahan kode memeriksa (1) semua hitungan tangan Contoh Soal
+# dan (2) blok keluaran bab yang hasilnya tidak bergantung pada
+# perangkat keras. Bab yang melatih model dengan PyTorch dapat berbeda di
+# digit terakhir pada CPU lain, sehingga diperiksa di komputer sendiri
+# dengan `python periksa.py`.
+name: periksa
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  periksa:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.9"
+      - run: pip install torch==2.2.2 --index-url https://download.pytorch.org/whl/cpu
+      - run: pip install numpy==1.26.4 scipy==1.13.1 scikit-learn==1.6.1 matplotlib==3.9.4
+      - name: Contoh Soal semua bab
+        run: for f in kode/bab*_contoh.py; do echo "== $f"; python "$f" || exit 1; done
+      - name: Keluaran bab deterministik
+        run: python periksa.py 01 02 03 04 05 07 08 10

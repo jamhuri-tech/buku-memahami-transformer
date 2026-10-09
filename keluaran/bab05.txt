@@ -1,0 +1,30 @@
+# Blok keluaran yang tercetak di Bab 5 (bab05-mask.tex).
+# Diperiksa oleh periksa.py terhadap kode/bab05_*.py.
+
+=== blok 1 ===
+(1) Posisi t: barisan penuh lawan awalan 1..t:
+    dengan causal mask: selisih maks = 0.0e+00
+    tanpa mask        : selisih maks = 1.0099
+
+=== blok 2 ===
+(2) Batch dua kalimat, causal + padding mask:
+    A kalimat 2 = [[1.     0.     0.    ]
+                   [0.1956 0.8044 0.    ]
+                   [0.     1.     0.    ]]
+    PyTorch: selisih maks O (baris bukan pad) = 0.0e+00
+    pad di kiri + causal: baris 1 = [nan nan nan]
+
+=== blok 3 ===
+(3) Cross-attention, 2 query decoder x 3 key encoder:
+    A = [[0.1978 0.4011 0.4011]
+         [0.4011 0.1978 0.4011]]
+    O = [[-0.2033  1.4011]
+         [ 0.2033  1.4011]]
+    PyTorch: selisih maks = 0.0e+00
+
+=== blok 4 ===
+(4) Banyaknya pasangan (query, key) yang dihitung, n = 1024:
+    penuh    1,048,576  (1.000 dari n^2)
+    kausal     524,800  (0.500 dari n^2)
+    jendela    122,944  (0.117 dari n^2)
+    global     123,840  (0.118 dari n^2)

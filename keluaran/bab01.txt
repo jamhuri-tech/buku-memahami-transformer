@@ -1,0 +1,23 @@
+# Blok keluaran yang tercetak di Bab 1 (bab01-notasi.tex).
+# Diperiksa oleh periksa.py terhadap kode/bab01_*.py.
+
+=== blok 1 ===
+(1) Lintasan maju data mini (NumPy):
+    A = [[1.    0.    0.   ]
+         [0.5   0.5   0.   ]
+         [0.14  0.284 0.576]]
+    H' = [[ 1.5    1.5  ]
+          [-1.     2.   ]
+          [-0.432  3.004]]
+    t=1 sasaran ilmu    P = [0.1491 0.1491 0.6684 0.0333]
+    t=2 sasaran itu     P = [0.012  0.2418 0.0889 0.6572]
+    t=3 sasaran cahaya  P = [0.01   0.3104 0.2015 0.4781]
+    loss cross-entropy rata-rata = 1.6868
+    PyTorch: selisih maks O = 2.8e-17, loss = 1.6868
+
+=== blok 2 ===
+(2) Banyaknya parameter (keluaran diikat ke embedding):
+    model         per lapisan    embedding         total
+    data mini              28            8            36
+    GPT-2 kecil     7,087,872   39,383,808   124,439,808
+    BERT-base       7,087,872   23,835,648   109,482,240

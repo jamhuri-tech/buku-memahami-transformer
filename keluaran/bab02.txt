@@ -1,0 +1,40 @@
+# Blok keluaran yang tercetak di Bab 2 (bab02-token.tex).
+# Diperiksa oleh periksa.py terhadap kode/bab02_*.py.
+
+=== blok 1 ===
+(1) BPE pada korpus mini:
+    1. (a, n) -> an, frekuensi 9
+    2. (an, _) -> an_, frekuensi 7
+    3. (a, k) -> ak, frekuensi 6
+    4. (m, ak) -> mak, frekuensi 6
+    5. (i, n) -> in, frekuensi 4
+    mak an_                x4
+    mak an an_             x2
+    m in u m _             x3
+    m in u m an_           x1
+    makanlah -> ['mak', 'an', 'l', 'a', 'h', '_']
+
+=== blok 2 ===
+(2) Korpus imbuhan: 144 jenis kata, 6366 kata, 19 huruf
+    12 penggabungan pertama:
+      an kan di ma makan a_ kan_ h_ ya_ ah_ lah_ in
+     0 penggabungan: kosakata  20, token per kata 8.932
+    10 penggabungan: kosakata  30, token per kata 5.413
+    30 penggabungan: kosakata  50, token per kata 3.151
+    60 penggabungan: kosakata  80, token per kata 2.133
+    dimasakkan  -> di ma s ak kan_
+    kirimannya  -> kir i m an nya_
+    membaca     -> m e m bac a_
+    BPE 60 penggabungan dari 8 kata dasar saja:
+      token per kata, kata dasar terlihat  1.441
+      token per kata, kata dasar baru      6.167
+
+=== blok 3 ===
+(3) Gradien dL/dE data mini (baris = token):
+    token     dari masukan   dari keluaran           total
+    <awal>  0.2732 -0.4883  0.0691  0.0926  0.3424 -0.3957
+    ilmu   -0.0735  0.4471 -0.5507  0.0466 -0.6242  0.4937
+    itu     0.2682 -0.3601  0.6089 -0.0714  0.8771 -0.4315
+    cahaya  0.0000  0.0000 -0.1273 -0.0678 -0.1273 -0.0678
+    selisih maks (total - masukan - keluaran) = 1.1e-16
+    jumlah baris bagian keluaran:  0.0000  0.0000

@@ -1,0 +1,26 @@
+# Blok keluaran yang tercetak di Bab 4 (bab04-attention.tex).
+# Diperiksa oleh periksa.py terhadap kode/bab04_*.py.
+
+=== blok 1 ===
+(1) Entri q, k ~ N(0, 1), 16 key, 4000 ulangan:
+     d_k   Var(q.k)   bobot maks tanpa skala   dengan skala
+       4       3.98                    0.422          0.232
+      16      15.85                    0.682          0.242
+      64      63.30                    0.844          0.245
+     256     258.68                    0.927          0.247
+
+=== blok 2 ===
+(3) Softmax untuk z = (1000, 1001, 1002):
+    langsung exp(z)/jumlah : [nan nan nan]
+    dikurangi maks dahulu  : [0.09   0.2447 0.6652]
+
+=== blok 3 ===
+(2) Data mini tanpa mask (encoder):
+    A = [[0.1978 0.4011 0.4011]
+         [0.2483 0.2483 0.5035]
+         [0.14   0.284  0.576 ]]
+    O = [[-0.2033  1.4011]
+         [ 0.      1.5035]
+         [-0.144   1.576 ]]
+    PyTorch: selisih maks O = 2.8e-17
+    acak n = 5, d_k = 8, kausal: selisih maks = 2.2e-16

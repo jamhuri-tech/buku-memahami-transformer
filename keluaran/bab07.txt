@@ -1,0 +1,35 @@
+# Blok keluaran yang tercetak di Bab 7 (bab07-turunan.tex).
+# Diperiksa oleh periksa.py terhadap kode/bab07_*.py.
+
+=== blok 1 ===
+(1) Backward tangan lawan autograd PyTorch, data mini:
+    loss = 1.6868 (PyTorch 1.6868)
+    WQ  selisih maks = 2.8e-17
+    WK  selisih maks = 2.8e-17
+    WV  selisih maks = 5.6e-17
+    W1  selisih maks = 1.1e-16
+    W2  selisih maks = 2.2e-16
+    E   selisih maks = 1.7e-16
+    dL/dWV = [[ 0.3046 -0.1675]
+             [ 0.0781  0.0197]]
+
+=== blok 2 ===
+(2) Beda hingga pusat, eps = 1e-6, galat relatif maks:
+    U = H W1 = [[ 2.      1.      3.     -1.    ]
+                [ 0.      2.      2.      2.    ]
+                [ 0.856   2.576   3.432   1.7199]]
+        data mini   digeser 0.01
+    E     1.3e-01        2.2e-10
+    WQ    4.1e-01        7.6e-10
+    WK    4.1e-01        1.1e-09
+    WV    2.7e-01        1.0e-09
+    W1    7.1e-01        6.0e-10
+    W2    2.9e-10        2.2e-10
+
+=== blok 3 ===
+(3) Rata-rata ||J softmax||_F, 16 key, q, k ~ N(0, I):
+     d_k   tanpa skala   dengan skala
+       4        0.3233         0.2968
+      16        0.2834         0.3032
+      64        0.1784         0.3046
+     256        0.0979         0.3047

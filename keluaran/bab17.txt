@@ -1,0 +1,36 @@
+# Blok keluaran yang tercetak di Bab 17 (bab17-skala.tex).
+# Diperiksa oleh periksa.py terhadap kode/bab17_*.py.
+
+=== blok 1 ===
+(1) Attention per blok lawan attention biasa, n = 50:
+    blok  1: selisih maks 5.6e-16
+    blok  7: selisih maks 4.7e-16
+    blok 16: selisih maks 4.2e-16
+    blok 50: selisih maks 4.2e-16
+
+=== blok 2 ===
+(2) Attention linear data mini, phi(x) = elu(x) + 1:
+    O = [[ 1.    1.  ]
+         [ 0.    1.  ]
+         [-0.04  1.4 ]]
+
+=== blok 3 ===
+(3) L(N, D) = 1.69 + 406.4/N^0.34 + 410.7/D^0.28:
+    N 7.00e+10  D 1.40e+12  C = 6ND 5.88e+23  L 1.9366
+    N 2.80e+11  D 3.00e+11  C = 6ND 5.04e+23  L 1.9933
+    N 1.75e+11  D 3.00e+11  C = 6ND 3.15e+23  L 2.0023
+(4) Alokasi optimum untuk compute C (6ND = C):
+    C 1.00e+19  N 2.28e+08  D 7.31e+09  D/N  32.1  L 2.9857
+    C 1.00e+21  N 1.82e+09  D 9.14e+10  D/N  50.1  L 2.3289
+    C 5.88e+23  N 3.25e+10  D 3.02e+12  D/N  92.8  L 1.9300
+    C 1.00e+25  N 1.17e+11  D 1.43e+13  D/N 122.1  L 1.8453
+
+=== blok 4 ===
+(5) Sapuan ukuran model karakter, 1200 langkah, batch 16:
+      d  N    P (tanpa emb.)   loss val
+     32  1         12,768     1.7664
+     48  2         56,640     1.3606
+     64  2        100,096     1.2151
+     96  3        335,712     1.0361
+    128  4        793,344     0.9597
+    pencocokan L = E + A P^-a: E = 0.667, A = 24.4, a = 0.327

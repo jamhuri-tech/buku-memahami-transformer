@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+gbr/
+.DS_Store
+# dibangkitkan ulang oleh kode/lampiran_transformer.py
+data/model/*.npz

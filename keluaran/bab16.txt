@@ -1,0 +1,15 @@
+# Blok keluaran yang tercetak di Bab 16 (bab16-luarteks.tex).
+# Diperiksa oleh periksa.py terhadap kode/bab16_*.py.
+
+=== blok 1 ===
+(1) Digit 8 x 8 scikit-learn: 1797 gambar, patch 2 x 2
+    16 patch per gambar, dimensi patch 4; latih 1500, uji 297
+    regresi logistik pada 64 piksel : akurasi 0.973
+    ViT dengan posisi               : akurasi 0.980
+    ViT tanpa posisi                : akurasi 0.781
+    ViT, patch diacak               : akurasi 0.774
+
+=== blok 2 ===
+(2) AR(2) phi = (0.5, -0.5), sigma^2 = 1, 500 deret uji x 64:
+    MSE ramalan satu langkah:
+    naif 1.9761, AR(2) benar 0.9931, Transformer 1.0696

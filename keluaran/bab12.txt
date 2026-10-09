@@ -1,0 +1,25 @@
+# Blok keluaran yang tercetak di Bab 12 (bab12-optimisasi.tex).
+# Diperiksa oleh periksa.py terhadap kode/bab12_*.py.
+
+=== blok 1 ===
+(1) Adam skalar, lr = 0.1, gradien 2 lalu -1:
+    t = 1: m = 0.200000, v = 0.004000, theta = -0.100000
+    t = 2: m = 0.080000, v = 0.004996, theta = -0.126634
+    AdamW 50 langkah lawan PyTorch: selisih maks = 2.2e-16
+
+=== blok 2 ===
+(2) Laju belajar akhir 30 langkah, GPTMini pada sumber Markov:
+    (H = 1.3568), 300 langkah, batch 32
+        lr      SGD     AdamW   AdamW+warmup
+      1e-04   2.0338   1.5836       1.6965
+      1e-03   1.7651   1.3713       1.3831
+      1e-02   1.4103   1.3672       1.3616
+      3e-02   1.3797   1.3745       1.3609
+      1e-01   1.3694   1.5776       1.3671
+
+=== blok 3 ===
+(3) AdamW lr = 1e-1, empat jadwal:
+    konstan           loss akhir 1.5776
+    warmup 30 saja    loss akhir 1.5183
+    kosinus saja      loss akhir 1.5655
+    warmup + kosinus  loss akhir 1.3671

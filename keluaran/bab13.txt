@@ -1,0 +1,60 @@
+# Blok keluaran yang tercetak di Bab 13 (bab13-melatih.tex).
+# Diperiksa oleh periksa.py terhadap kode/bab13_*.py.
+
+=== blok 1 ===
+(1) Korpus: 9 peraturan, Wikisumber, domain publik
+    uu11-2008   38,085 karakter  4,793 kata
+    uu11-2019   60,767 karakter  7,671 kata
+    uu12-2012   71,977 karakter  8,954 kata
+    uu14-2005   52,363 karakter  6,591 kata
+    uu20-2003   48,198 karakter  6,002 kata
+    uu24-2009   62,757 karakter  8,609 kata
+    uu27-2022   41,354 karakter  5,377 kata
+    uu28-2014   81,190 karakter 10,851 kata
+    uud1945     34,565 karakter  4,369 kata
+    latih 441,077 karakter, validasi 50,179
+
+=== blok 2 ===
+(2) Tokenizer:
+    karakter: V = 79, token latih 441,077
+    BPE 1000: V = 1080, token latih 111,034
+    3.97 karakter per token BPE
+    15 penggabungan pertama:
+      an an_ en a_ er at di ang ak as i_ al ar eng em
+    kembali utuh: True
+      Setiap_ warga_ negara_ berhak_ men dapat_ pendidikan._
+
+=== blok 3 ===
+(3) NumPy lawan PyTorch, d = 16, 8 barisan x 32 karakter:
+    langkah   1: loss NumPy 4.367374, PyTorch 4.367374
+    langkah  50: loss NumPy 2.953860, PyTorch 2.953860
+    langkah 100: loss NumPy 2.980178, PyTorch 2.980178
+    langkah 200: loss NumPy 2.514663, PyTorch 2.514663
+    selisih maks loss = 8.9e-16
+    selisih maks bobot = 1.3e-15
+
+=== blok 4 ===
+(4) Ringkasan pelatihan, 2000 langkah, batch 32 x 128 token:
+    model       V  parameter  latih    val val min (langkah)
+    karakter   79    819,840  0.445  0.842  0.830 (1700)
+    bpe      1080    947,968  0.150  4.289  3.034 (300)
+    uud        79    819,840  0.078  3.246  1.692 (300)
+
+=== blok 5 ===
+(5) Bit per karakter validasi (pembanding yang adil):
+    karakter, akhir    : 1.215 bit/karakter
+    BPE 1000, akhir    : 1.820 bit/karakter
+    BPE 1000, terbaik  : 1.287 bit/karakter
+    (token BPE per karakter validasi 14,761/50,179)
+    waktu latih: karakter 8.4 menit, BPE 9.7 menit
+
+=== blok 6 ===
+(6) Teks model karakter, awalan 'Setiap warga negara berhak'
+    suhu 0:
+       atas pengawasan terhadap persetujuan yang dilakukan den
+      gan memberi kesuatan dan kemampuan daerah. / Pengangkata
+      n dan penempatan dosen pada satuan / pendidikan ters
+    suhu 0.8:
+       atau sampan menumbuhkan dan/atau berbahasa dan berkaita
+      n dutiangkan pengembangan profesionalan di efisik, terti
+      ndakan sebagai penyumparan, tidak pidana berakhi

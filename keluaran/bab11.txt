@@ -1,0 +1,21 @@
+# Blok keluaran yang tercetak di Bab 11 (bab11-objektif.tex).
+# Diperiksa oleh periksa.py terhadap kode/bab11_*.py.
+
+=== blok 1 ===
+(1) Data mini:
+    loss 1.6868 nat = 2.4336 bit per token
+    perplexity 5.4023, seragam 4
+
+=== blok 2 ===
+(2) Sumber Markov orde 1, V = 8, transisi Dirichlet(0.3):
+    laju entropi H = 1.3568 (perplexity 3.884)
+    entropi unigram = 1.9809, log V = 2.0794
+    GPTMini sesudah 600 langkah: loss uji 1.3639
+    bigram hitungan (data latih sama): loss uji 1.3596
+
+=== blok 3 ===
+(3) Label smoothing pada logit posisi 2 data mini:
+    eps = 0.0: loss 2.4197, PyTorch 2.4197
+    eps = 0.1: loss 2.3947, PyTorch 2.3947
+    eps = 0.3: loss 2.3447, PyTorch 2.3447
+    eps = 0.1, V = 4: selisih logit optimum = 3.6109

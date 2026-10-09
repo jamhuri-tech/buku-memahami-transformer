@@ -1,0 +1,8 @@
+# Versi yang dipakai untuk menghasilkan setiap angka di buku
+# (Python 3.9.6, macOS, CPU). Versi lain biasanya berjalan, tetapi
+# angka di digit terakhir dapat berbeda.
+numpy==1.26.4
+scipy==1.13.1
+scikit-learn==1.6.1
+matplotlib==3.9.4
+torch==2.2.2

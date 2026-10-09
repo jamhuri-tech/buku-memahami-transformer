@@ -1,0 +1,20 @@
+# Blok keluaran yang tercetak di Bab 15 (bab15-finetuning.tex).
+# Diperiksa oleh periksa.py terhadap kode/bab15_*.py.
+
+=== blok 1 ===
+(1) Tugas: tebak peraturan asal potongan 128 karakter, 9 kelas
+    latih 450 potongan (50 per kelas)
+    validasi 900 (100 per kelas, 10% akhir tiap berkas)
+(2) 300 langkah AdamW, batch 32:
+    cara              parameter dilatih   akurasi validasi
+    dari nol               821,001           0.192
+    linear probe             1,161           0.280
+    fine-tuning penuh      821,001           0.343
+    LoRA r = 4              33,929           0.334
+
+=== blok 2 ===
+(3) Akurasi validasi menurut banyaknya contoh latih per kelas:
+    per kelas   dari nol   probe   penuh   LoRA
+           20    0.188   0.328   0.254   0.291
+          100    0.253   0.263   0.426   0.451
+          400    0.239   0.302   0.487   0.467

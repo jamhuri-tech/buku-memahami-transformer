@@ -1,0 +1,34 @@
+# Blok keluaran yang tercetak di Bab 18 (bab18-riset.tex).
+# Diperiksa oleh periksa.py terhadap kode/bab18_*.py.
+
+=== blok 1 ===
+(1) Entropi attention rata-rata (nat), model karakter Bab 13:
+    lapisan 1:  2.20  2.43  2.30  2.40
+    lapisan 2:  2.17  1.95  1.75  1.99
+    lapisan 3:  1.97  2.31  1.89  2.26
+    lapisan 4:  2.35  2.14  2.28  2.09
+    seragam atas 128 key: 4.85
+    seragam atas key yang tersedia, rata-rata: 3.88
+
+=== blok 2 ===
+(2) Tugas salin (n = 32, V = 16, jarak salin 16), 2 lapisan:
+    bobot ke t-1 dan ke t-15, head 1..4:
+    lapisan 1: t-1  [0.088 0.098 0.105 0.087]
+               t-15 [0.076 0.087 0.288 0.906]
+    lapisan 2: t-1  [0.086 0.08  0.084 0.081]
+               t-15 [0.057 0.062 0.059 0.062]
+    loss paruh kedua 0.0016; paruh pertama 2.7748
+    (log 16 = 2.7726)
+    matikan satu head lapisan 1: 0.118 0.002 0.002 3.647
+    matikan satu head lapisan 2: 0.002 0.002 0.002 0.002
+    uji jarak salin lain (segmen sepanjang k diulang):
+      k = 16: loss salinan 0.0016
+      k = 12: loss salinan 7.1688
+      k =  8: loss salinan 2.7728
+
+=== blok 3 ===
+(3) Probing linear: posisi karakter di dalam kata (0..5+),
+    200 potongan latih, 100 uji; akurasi per lapisan
+    terlatih: 0.530 0.859 0.827 0.784 0.729
+    acak    : 0.513 0.520 0.518 0.515 0.513
+    tebakan kelas terbanyak: 0.275

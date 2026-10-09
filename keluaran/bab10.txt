@@ -1,0 +1,20 @@
+# Blok keluaran yang tercetak di Bab 10 (bab10-arsitektur.tex).
+# Diperiksa oleh periksa.py terhadap kode/bab10_*.py.
+
+=== blok 1 ===
+(2) GPTMini (V = 50, d = 32, h = 4, N = 2) lawan NumPy:
+    parameter 27,584; selisih maks logit = 1.8e-16
+
+=== blok 2 ===
+(1) Parameter satu blok, d = 512, d_ff = 2048:
+    encoder: rumus 3,152,384, PyTorch 3,152,384
+    decoder seq2seq: rumus 4,204,032, PyTorch 4,204,032
+    Transformer-base, 6 + 6 blok, kosakata 37000: 63,082,496
+
+=== blok 3 ===
+(3) FLOP lintasan maju per token, d = 768, N = 12:
+    parameter non-embedding P = 84,934,656
+    n =    128:    172.2 MFLOP, bagian attention 0.014
+    n =   1024:    188.7 MFLOP, bagian attention 0.100
+    n =   8192:    320.9 MFLOP, bagian attention 0.471
+    n =  32768:    773.8 MFLOP, bagian attention 0.780
